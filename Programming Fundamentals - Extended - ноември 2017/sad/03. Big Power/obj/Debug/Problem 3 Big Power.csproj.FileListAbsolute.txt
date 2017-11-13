@@ -1,6 +1,0 @@
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\Problem 3 Big Power\bin\Debug\Problem 3 Big Power.exe.config
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\Problem 3 Big Power\bin\Debug\Problem 3 Big Power.exe
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\Problem 3 Big Power\bin\Debug\Problem 3 Big Power.pdb
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\Problem 3 Big Power\obj\Debug\Problem 3 Big Power.csproj.CoreCompileInputs.cache
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\Problem 3 Big Power\obj\Debug\Problem 3 Big Power.exe
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\Problem 3 Big Power\obj\Debug\Problem 3 Big Power.pdb

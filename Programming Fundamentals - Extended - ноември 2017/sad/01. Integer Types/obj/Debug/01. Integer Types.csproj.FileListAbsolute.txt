@@ -1,7 +1,0 @@
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\01. Integer Types\bin\Debug\_01.Integer_Types.exe.config
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\01. Integer Types\bin\Debug\_01.Integer_Types.exe
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\01. Integer Types\bin\Debug\_01.Integer_Types.pdb
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\01. Integer Types\obj\Debug\01. Integer Types.csprojResolveAssemblyReference.cache
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\01. Integer Types\obj\Debug\01. Integer Types.csproj.CoreCompileInputs.cache
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\01. Integer Types\obj\Debug\_01.Integer_Types.exe
-C:\Users\MASTER\Desktop\Programming Fundamentals\Programming Fundamentals - Extended - ноември 2017\Data Types, Variables and Methods  Lab\01. Integer Types\obj\Debug\_01.Integer_Types.pdb
