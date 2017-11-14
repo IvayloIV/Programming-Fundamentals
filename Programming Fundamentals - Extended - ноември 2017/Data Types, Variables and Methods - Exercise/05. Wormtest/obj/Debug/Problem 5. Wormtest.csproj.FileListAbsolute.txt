@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 5. Wormtest\bin\Debug\Problem_5.Wormtest.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 5. Wormtest\bin\Debug\Problem_5.Wormtest.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 5. Wormtest\bin\Debug\Problem_5.Wormtest.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 5. Wormtest\obj\Debug\Problem 5. Wormtest.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 5. Wormtest\obj\Debug\Problem 5. Wormtest.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 5. Wormtest\obj\Debug\Problem_5.Wormtest.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 5. Wormtest\obj\Debug\Problem_5.Wormtest.pdb

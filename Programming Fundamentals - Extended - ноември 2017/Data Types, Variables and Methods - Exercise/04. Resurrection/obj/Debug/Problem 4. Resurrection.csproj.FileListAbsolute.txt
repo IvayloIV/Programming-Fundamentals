@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 4. Resurrection\bin\Debug\Problem_4.Resurrection.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 4. Resurrection\bin\Debug\Problem_4.Resurrection.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 4. Resurrection\bin\Debug\Problem_4.Resurrection.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 4. Resurrection\obj\Debug\Problem 4. Resurrection.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 4. Resurrection\obj\Debug\Problem 4. Resurrection.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 4. Resurrection\obj\Debug\Problem_4.Resurrection.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\123\Problem 4. Resurrection\obj\Debug\Problem_4.Resurrection.pdb
