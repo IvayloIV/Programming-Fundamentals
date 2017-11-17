@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\01. Rotate Array of Strings\bin\Debug\_01.Rotate_Array_of_Strings.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\01. Rotate Array of Strings\bin\Debug\_01.Rotate_Array_of_Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\01. Rotate Array of Strings\bin\Debug\_01.Rotate_Array_of_Strings.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\01. Rotate Array of Strings\obj\Debug\01. Rotate Array of Strings.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\01. Rotate Array of Strings\obj\Debug\01. Rotate Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\01. Rotate Array of Strings\obj\Debug\_01.Rotate_Array_of_Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\01. Rotate Array of Strings\obj\Debug\_01.Rotate_Array_of_Strings.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\Problem 2. Odd Numbers\bin\Debug\Problem_2.Odd_Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\Problem 2. Odd Numbers\bin\Debug\Problem_2.Odd_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\Problem 2. Odd Numbers\bin\Debug\Problem_2.Odd_Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\Problem 2. Odd Numbers\obj\Debug\Problem 2. Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\Problem 2. Odd Numbers\obj\Debug\Problem_2.Odd_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\Problem 2. Odd Numbers\obj\Debug\Problem_2.Odd_Numbers.pdb

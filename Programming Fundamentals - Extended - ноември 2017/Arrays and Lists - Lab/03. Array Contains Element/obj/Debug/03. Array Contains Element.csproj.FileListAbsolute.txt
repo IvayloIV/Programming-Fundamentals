@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\03. Array Contains Element\bin\Debug\_03.Array_Contains_Element.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\03. Array Contains Element\bin\Debug\_03.Array_Contains_Element.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\03. Array Contains Element\bin\Debug\_03.Array_Contains_Element.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\03. Array Contains Element\obj\Debug\03. Array Contains Element.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\03. Array Contains Element\obj\Debug\_03.Array_Contains_Element.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\03. Array Contains Element\obj\Debug\_03.Array_Contains_Element.pdb

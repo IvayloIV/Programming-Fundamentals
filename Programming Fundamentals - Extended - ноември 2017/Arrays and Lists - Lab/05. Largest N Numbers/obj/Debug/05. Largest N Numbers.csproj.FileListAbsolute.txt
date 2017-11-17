@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\05. Largest N Numbers\bin\Debug\_05.Largest_N_Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\05. Largest N Numbers\bin\Debug\_05.Largest_N_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\05. Largest N Numbers\bin\Debug\_05.Largest_N_Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\05. Largest N Numbers\obj\Debug\05. Largest N Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\05. Largest N Numbers\obj\Debug\_05.Largest_N_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Lab\05. Largest N Numbers\obj\Debug\_05.Largest_N_Numbers.pdb
