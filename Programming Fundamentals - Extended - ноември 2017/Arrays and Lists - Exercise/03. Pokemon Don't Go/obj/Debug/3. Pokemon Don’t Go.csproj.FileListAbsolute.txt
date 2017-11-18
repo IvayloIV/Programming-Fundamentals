@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\3. Pokemon Don’t Go\bin\Debug\_3.Pokemon_Don_t_Go.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\3. Pokemon Don’t Go\bin\Debug\_3.Pokemon_Don_t_Go.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\3. Pokemon Don’t Go\bin\Debug\_3.Pokemon_Don_t_Go.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\3. Pokemon Don’t Go\obj\Debug\3. Pokemon Don’t Go.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\3. Pokemon Don’t Go\obj\Debug\3. Pokemon Don’t Go.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\3. Pokemon Don’t Go\obj\Debug\_3.Pokemon_Don_t_Go.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\3. Pokemon Don’t Go\obj\Debug\_3.Pokemon_Don_t_Go.pdb

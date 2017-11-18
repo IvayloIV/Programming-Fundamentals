@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\01. Anonymous Threat\bin\Debug\_01.Anonymous_Threat.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\01. Anonymous Threat\bin\Debug\_01.Anonymous_Threat.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\01. Anonymous Threat\bin\Debug\_01.Anonymous_Threat.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\01. Anonymous Threat\obj\Debug\01. Anonymous Threat.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\01. Anonymous Threat\obj\Debug\01. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\01. Anonymous Threat\obj\Debug\_01.Anonymous_Threat.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\01. Anonymous Threat\obj\Debug\_01.Anonymous_Threat.pdb

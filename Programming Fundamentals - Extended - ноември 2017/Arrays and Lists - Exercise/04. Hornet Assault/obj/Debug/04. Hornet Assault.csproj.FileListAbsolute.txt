@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\04. Hornet Assault\bin\Debug\_04.Hornet_Assault.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\04. Hornet Assault\bin\Debug\_04.Hornet_Assault.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\04. Hornet Assault\bin\Debug\_04.Hornet_Assault.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\04. Hornet Assault\obj\Debug\04. Hornet Assault.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\04. Hornet Assault\obj\Debug\04. Hornet Assault.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\04. Hornet Assault\obj\Debug\_04.Hornet_Assault.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Arrays and Lists - Exercise\04. Hornet Assault\obj\Debug\_04.Hornet_Assault.pdb
