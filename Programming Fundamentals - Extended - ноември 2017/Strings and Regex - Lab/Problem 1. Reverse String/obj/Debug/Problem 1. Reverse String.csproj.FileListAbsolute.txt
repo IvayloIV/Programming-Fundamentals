@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 1. Reverse String\bin\Debug\Problem_1.Reverse_String.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 1. Reverse String\bin\Debug\Problem_1.Reverse_String.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 1. Reverse String\bin\Debug\Problem_1.Reverse_String.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 1. Reverse String\obj\Debug\Problem 1. Reverse String.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 1. Reverse String\obj\Debug\Problem 1. Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 1. Reverse String\obj\Debug\Problem_1.Reverse_String.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 1. Reverse String\obj\Debug\Problem_1.Reverse_String.pdb

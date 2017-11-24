@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 6.Match Phone\bin\Debug\Problem 6.Match Phone.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 6.Match Phone\bin\Debug\Problem 6.Match Phone.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 6.Match Phone\bin\Debug\Problem 6.Match Phone.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 6.Match Phone\obj\Debug\Problem 6.Match Phone.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 6.Match Phone\obj\Debug\Problem 6.Match Phone.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 6.Match Phone\obj\Debug\Problem 6.Match Phone.pdb

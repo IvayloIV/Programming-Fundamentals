@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 7. Match\bin\Debug\Problem_7.Match.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 7. Match\bin\Debug\Problem_7.Match.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 7. Match\bin\Debug\Problem_7.Match.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 7. Match\obj\Debug\Problem 7. Match.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 7. Match\obj\Debug\Problem_7.Match.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 7. Match\obj\Debug\Problem_7.Match.pdb

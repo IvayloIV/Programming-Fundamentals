@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 9. Match Numbers\bin\Debug\Problem_9.Match_Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 9. Match Numbers\bin\Debug\Problem_9.Match_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 9. Match Numbers\bin\Debug\Problem_9.Match_Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 9. Match Numbers\obj\Debug\Problem 9. Match Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 9. Match Numbers\obj\Debug\Problem_9.Match_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 9. Match Numbers\obj\Debug\Problem_9.Match_Numbers.pdb

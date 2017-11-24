@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 2. Count Substring\bin\Debug\Problem_2.Count_Substring.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 2. Count Substring\bin\Debug\Problem_2.Count_Substring.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 2. Count Substring\bin\Debug\Problem_2.Count_Substring.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 2. Count Substring\obj\Debug\Problem 2. Count Substring.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 2. Count Substring\obj\Debug\Problem_2.Count_Substring.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Lab\Problem 2. Count Substring\obj\Debug\Problem_2.Count_Substring.pdb
