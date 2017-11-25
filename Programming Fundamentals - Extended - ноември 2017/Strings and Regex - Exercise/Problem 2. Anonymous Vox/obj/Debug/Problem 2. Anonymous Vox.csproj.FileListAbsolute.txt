@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Exercise\Problem 2. Anonymous Vox\bin\Debug\Problem_2.Anonymous_Vox.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Exercise\Problem 2. Anonymous Vox\bin\Debug\Problem_2.Anonymous_Vox.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Exercise\Problem 2. Anonymous Vox\bin\Debug\Problem_2.Anonymous_Vox.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Exercise\Problem 2. Anonymous Vox\obj\Debug\Problem 2. Anonymous Vox.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Exercise\Problem 2. Anonymous Vox\obj\Debug\Problem 2. Anonymous Vox.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Exercise\Problem 2. Anonymous Vox\obj\Debug\Problem_2.Anonymous_Vox.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Strings and Regex - Exercise\Problem 2. Anonymous Vox\obj\Debug\Problem_2.Anonymous_Vox.pdb
