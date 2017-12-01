@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\1. Odd Occurrences\bin\Debug\_1.Odd_Occurrences.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\1. Odd Occurrences\bin\Debug\_1.Odd_Occurrences.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\1. Odd Occurrences\bin\Debug\_1.Odd_Occurrences.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\1. Odd Occurrences\obj\Debug\1. Odd Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\1. Odd Occurrences\obj\Debug\1. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\1. Odd Occurrences\obj\Debug\_1.Odd_Occurrences.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\1. Odd Occurrences\obj\Debug\_1.Odd_Occurrences.pdb

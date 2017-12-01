@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\5. Largest 3 Numbers\bin\Debug\_5.Largest_3_Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\5. Largest 3 Numbers\bin\Debug\_5.Largest_3_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\5. Largest 3 Numbers\bin\Debug\_5.Largest_3_Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\5. Largest 3 Numbers\obj\Debug\5. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\5. Largest 3 Numbers\obj\Debug\_5.Largest_3_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\5. Largest 3 Numbers\obj\Debug\_5.Largest_3_Numbers.pdb

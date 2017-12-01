@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\3 Cities by Contine\bin\Debug\3 Cities by Contine.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\3 Cities by Contine\bin\Debug\3 Cities by Contine.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\3 Cities by Contine\bin\Debug\3 Cities by Contine.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\3 Cities by Contine\obj\Debug\3 Cities by Contine.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\3 Cities by Contine\obj\Debug\3 Cities by Contine.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Lab\3 Cities by Contine\obj\Debug\3 Cities by Contine.pdb
