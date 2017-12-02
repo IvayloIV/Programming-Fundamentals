@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\1. Anonymous Cache\bin\Debug\_1.Anonymous_Cache.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\1. Anonymous Cache\bin\Debug\_1.Anonymous_Cache.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\1. Anonymous Cache\bin\Debug\_1.Anonymous_Cache.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\1. Anonymous Cache\obj\Debug\1. Anonymous Cache.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\1. Anonymous Cache\obj\Debug\1. Anonymous Cache.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\1. Anonymous Cache\obj\Debug\_1.Anonymous_Cache.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\1. Anonymous Cache\obj\Debug\_1.Anonymous_Cache.pdb

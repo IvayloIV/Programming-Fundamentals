@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\4. Trainlands\bin\Debug\_4.Trainlands.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\4. Trainlands\bin\Debug\_4.Trainlands.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\4. Trainlands\bin\Debug\_4.Trainlands.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\4. Trainlands\obj\Debug\4. Trainlands.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\4. Trainlands\obj\Debug\4. Trainlands.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\4. Trainlands\obj\Debug\_4.Trainlands.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\4. Trainlands\obj\Debug\_4.Trainlands.pdb

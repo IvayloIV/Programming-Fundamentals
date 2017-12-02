@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\5. Pokemon Evolution\bin\Debug\_5.Pokemon_Evolution.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\5. Pokemon Evolution\bin\Debug\_5.Pokemon_Evolution.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\5. Pokemon Evolution\bin\Debug\_5.Pokemon_Evolution.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\5. Pokemon Evolution\obj\Debug\5. Pokemon Evolution.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\5. Pokemon Evolution\obj\Debug\5. Pokemon Evolution.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\5. Pokemon Evolution\obj\Debug\_5.Pokemon_Evolution.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Dictionaries and LINQ - Exercises\5. Pokemon Evolution\obj\Debug\_5.Pokemon_Evolution.pdb
