@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Exam Preparation I\Problem 3 – Nether Realms\bin\Debug\Problem 3 – Nether Realms.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Exam Preparation I\Problem 3 – Nether Realms\bin\Debug\Problem 3 – Nether Realms.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Exam Preparation I\Problem 3 – Nether Realms\bin\Debug\Problem 3 – Nether Realms.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Exam Preparation I\Problem 3 – Nether Realms\obj\Debug\Problem 3 – Nether Realms.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Exam Preparation I\Problem 3 – Nether Realms\obj\Debug\Problem 3 – Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Exam Preparation I\Problem 3 – Nether Realms\obj\Debug\Problem 3 – Nether Realms.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Extended - ноември 2017\Exam Preparation I\Problem 3 – Nether Realms\obj\Debug\Problem 3 – Nether Realms.pdb
