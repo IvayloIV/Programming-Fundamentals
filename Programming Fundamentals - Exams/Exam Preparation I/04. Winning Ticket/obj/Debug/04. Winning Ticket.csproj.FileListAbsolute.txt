@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\04. Winning Ticket\obj\Debug\04. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\04. Winning Ticket\obj\Debug\_04.Winning_Ticket.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\04. Winning Ticket\obj\Debug\_04.Winning_Ticket.pdb

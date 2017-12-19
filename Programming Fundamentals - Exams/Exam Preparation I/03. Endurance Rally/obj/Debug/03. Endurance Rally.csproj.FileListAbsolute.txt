@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\03. Endurance Rally\obj\Debug\03. Endurance Rally.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\03. Endurance Rally\obj\Debug\03. Endurance Rally.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\03. Endurance Rally\obj\Debug\_03.Endurance_Rally.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation I\03. Endurance Rally\obj\Debug\_03.Endurance_Rally.pdb
