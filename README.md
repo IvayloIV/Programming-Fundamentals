@@ -12,3 +12,6 @@
 8.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Extended%20-%20%D0%BD%D0%BE%D0%B5%D0%BC%D0%B2%D1%80%D0%B8%202017/Dictionaries%20and%20LINQ%20-%20Exercises" > <b>Dictionaries and LINQ - Exercises</b> </a>
 9.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Extended%20-%20%D0%BD%D0%BE%D0%B5%D0%BC%D0%B2%D1%80%D0%B8%202017/Exam%20Preparation%20I" > <b>Exam Preparation I</b> </a>
 10.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Extended%20-%20%D0%BD%D0%BE%D0%B5%D0%BC%D0%B2%D1%80%D0%B8%202017/Exam%20Preparation%20II" > <b>Exam Preparation II</b> </a>
+
+## <b>Programming Fundamentals - Exams</b>
+1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20I" > <b>Exam Preparation I</b> </a> 
