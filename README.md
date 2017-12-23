@@ -16,3 +16,4 @@
 ## <b>Programming Fundamentals - Exams</b>
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20I" > <b>Exam Preparation I</b> </a> 
 2.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20II" > <b>Exam Preparation II</b> </a> 
+3.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20III" > <b>Exam Preparation III</b> </a> 
