@@ -1,0 +1,7 @@
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem1 - Sweet Dessert\bin\Debug\Problem1 - Sweet Dessert.exe.config
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem1 - Sweet Dessert\bin\Debug\Problem1 - Sweet Dessert.exe
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem1 - Sweet Dessert\bin\Debug\Problem1 - Sweet Dessert.pdb
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem1 - Sweet Dessert\obj\Debug\Problem1 - Sweet Dessert.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem1 - Sweet Dessert\obj\Debug\Problem1 - Sweet Dessert.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem1 - Sweet Dessert\obj\Debug\Problem1 - Sweet Dessert.exe
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem1 - Sweet Dessert\obj\Debug\Problem1 - Sweet Dessert.pdb

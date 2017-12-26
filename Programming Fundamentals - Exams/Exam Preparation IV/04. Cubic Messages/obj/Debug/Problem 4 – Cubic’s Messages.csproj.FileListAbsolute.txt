@@ -1,0 +1,7 @@
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 4 – Cubic’s Messages\bin\Debug\Problem 4 – Cubic’s Messages.exe.config
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 4 – Cubic’s Messages\bin\Debug\Problem 4 – Cubic’s Messages.exe
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 4 – Cubic’s Messages\bin\Debug\Problem 4 – Cubic’s Messages.pdb
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 4 – Cubic’s Messages\obj\Debug\Problem 4 – Cubic’s Messages.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 4 – Cubic’s Messages\obj\Debug\Problem 4 – Cubic’s Messages.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 4 – Cubic’s Messages\obj\Debug\Problem 4 – Cubic’s Messages.exe
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 4 – Cubic’s Messages\obj\Debug\Problem 4 – Cubic’s Messages.pdb

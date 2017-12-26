@@ -1,0 +1,7 @@
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 2 – Array Manipulator\bin\Debug\Problem 2 – Array Manipulator.exe.config
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 2 – Array Manipulator\bin\Debug\Problem 2 – Array Manipulator.exe
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 2 – Array Manipulator\bin\Debug\Problem 2 – Array Manipulator.pdb
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 2 – Array Manipulator\obj\Debug\Problem 2 – Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 2 – Array Manipulator\obj\Debug\Problem 2 – Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 2 – Array Manipulator\obj\Debug\Problem 2 – Array Manipulator.exe
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 2 – Array Manipulator\obj\Debug\Problem 2 – Array Manipulator.pdb

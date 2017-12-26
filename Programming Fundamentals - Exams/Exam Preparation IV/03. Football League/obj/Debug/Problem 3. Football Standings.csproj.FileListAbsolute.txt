@@ -1,0 +1,14 @@
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.exe.config
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.exe
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.pdb
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 3. Football Standings\obj\Debug\Problem 3. Football Standings.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 3. Football Standings\obj\Debug\Problem 3. Football Standings.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 3. Football Standings\obj\Debug\Problem_3.Football_Standings.exe
+C:\Users\Nikolay\Desktop\C#\Exam Preparation IV\Problem 3. Football Standings\obj\Debug\Problem_3.Football_Standings.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation IV\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation IV\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation IV\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation IV\Problem 3. Football Standings\obj\Debug\Problem 3. Football Standings.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation IV\Problem 3. Football Standings\obj\Debug\Problem 3. Football Standings.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation IV\Problem 3. Football Standings\obj\Debug\Problem_3.Football_Standings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Exam Preparation IV\Problem 3. Football Standings\obj\Debug\Problem_3.Football_Standings.pdb
