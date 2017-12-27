@@ -17,3 +17,5 @@
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20I" > <b>Exam Preparation I</b> </a> 
 2.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20II" > <b>Exam Preparation II</b> </a> 
 3.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20III" > <b>Exam Preparation III</b> </a> 
+4.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20IV" > <b>Exam Preparation IV</b> </a> 
+5.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Programming%20Fundamentals%20Exam%20-%2009%20July%202017" > <b>Programming Fundamentals Exam - 09 July 2017</b> </a> 
