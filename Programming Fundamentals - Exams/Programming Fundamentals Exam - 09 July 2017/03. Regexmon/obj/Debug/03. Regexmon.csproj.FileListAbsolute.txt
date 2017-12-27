@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 09 July 2017\03. Regexmon\bin\Debug\_03.Regexmon.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 09 July 2017\03. Regexmon\bin\Debug\_03.Regexmon.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 09 July 2017\03. Regexmon\bin\Debug\_03.Regexmon.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 09 July 2017\03. Regexmon\obj\Debug\03. Regexmon.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 09 July 2017\03. Regexmon\obj\Debug\_03.Regexmon.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 09 July 2017\03. Regexmon\obj\Debug\_03.Regexmon.pdb
