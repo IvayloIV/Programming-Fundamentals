@@ -20,3 +20,4 @@
 4.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20IV" > <b>Exam Preparation IV</b> </a> 
 5.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Programming%20Fundamentals%20Exam%20-%2009%20July%202017" > <b>Programming Fundamentals Exam - 09 July 2017</b> </a> 
 6.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Programming%20Fundamentals%20Exam%20-%2026%20February%202017" > <b>Programming Fundamentals Exam - 26 February 2017</b> </a> 
+7.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Programming%20Fundamentals%20Retake%20Exam%20-%206%20January%202017" > <b>Programming Fundamentals Retake Exam - 6 January 2017</b> </a> 
