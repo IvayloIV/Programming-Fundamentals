@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 23 October 2016\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 23 October 2016\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 23 October 2016\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 23 October 2016\04. Roli The Coder\obj\Debug\04. Roli The Coder.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 23 October 2016\04. Roli The Coder\obj\Debug\04. Roli The Coder.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 23 October 2016\04. Roli The Coder\obj\Debug\_04.Roli_The_Coder.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 23 October 2016\04. Roli The Coder\obj\Debug\_04.Roli_The_Coder.pdb
