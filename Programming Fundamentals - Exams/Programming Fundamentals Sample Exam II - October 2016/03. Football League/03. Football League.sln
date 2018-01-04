@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Football League", "03. Football League.csproj", "{CFE54CB0-B904-43CA-9AA6-DF8461DA3B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Cubic Messages", "..\04. Cubic Messages\04. Cubic Messages.csproj", "{36D03093-7F36-47E6-8FF3-E44E8E85805F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE54CB0-B904-43CA-9AA6-DF8461DA3B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE54CB0-B904-43CA-9AA6-DF8461DA3B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE54CB0-B904-43CA-9AA6-DF8461DA3B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE54CB0-B904-43CA-9AA6-DF8461DA3B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D03093-7F36-47E6-8FF3-E44E8E85805F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D03093-7F36-47E6-8FF3-E44E8E85805F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D03093-7F36-47E6-8FF3-E44E8E85805F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D03093-7F36-47E6-8FF3-E44E8E85805F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {530E29D4-6163-4C2F-98DB-4B9E0BE351FA}
+	EndGlobalSection
+EndGlobal

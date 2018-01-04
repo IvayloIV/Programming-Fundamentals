@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\04. Cubic Messages\obj\Debug\04. Cubic Messages.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\04. Cubic Messages\obj\Debug\_04.Cubic_Messages.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\04. Cubic Messages\obj\Debug\_04.Cubic_Messages.pdb

@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\02.Array Manipulator\bin\Debug\02.Array Manipulator.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\02.Array Manipulator\bin\Debug\02.Array Manipulator.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\02.Array Manipulator\bin\Debug\02.Array Manipulator.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\02.Array Manipulator\obj\Debug\02.Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\02.Array Manipulator\obj\Debug\02.Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\02.Array Manipulator\obj\Debug\02.Array Manipulator.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - October 2016\02.Array Manipulator\obj\Debug\02.Array Manipulator.pdb
