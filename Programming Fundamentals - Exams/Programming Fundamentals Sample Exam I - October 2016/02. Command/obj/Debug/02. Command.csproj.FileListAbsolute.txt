@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\02. Command\bin\Debug\_02.Command.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\02. Command\bin\Debug\_02.Command.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\02. Command\bin\Debug\_02.Command.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\02. Command\obj\Debug\02. Command.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\02. Command\obj\Debug\_02.Command.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\02. Command\obj\Debug\_02.Command.pdb

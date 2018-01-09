@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Softuni C", "01. Softuni C.csproj", "{BB3B48E7-A799-4FF0-BB51-D2DCC3C32FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Command", "..\02. Command\02. Command.csproj", "{61A907FE-BDC5-44A1-91EF-D6A9B0D0F539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB3B48E7-A799-4FF0-BB51-D2DCC3C32FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3B48E7-A799-4FF0-BB51-D2DCC3C32FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3B48E7-A799-4FF0-BB51-D2DCC3C32FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3B48E7-A799-4FF0-BB51-D2DCC3C32FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A907FE-BDC5-44A1-91EF-D6A9B0D0F539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A907FE-BDC5-44A1-91EF-D6A9B0D0F539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A907FE-BDC5-44A1-91EF-D6A9B0D0F539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A907FE-BDC5-44A1-91EF-D6A9B0D0F539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09F69B6-B45C-4CA5-99D7-B755621033F0}
+	EndGlobalSection
+EndGlobal

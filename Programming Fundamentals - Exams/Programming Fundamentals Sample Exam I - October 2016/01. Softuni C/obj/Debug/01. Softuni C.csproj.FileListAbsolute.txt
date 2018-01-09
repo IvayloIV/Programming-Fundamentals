@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\01. Softuni C\bin\Debug\_01.Softuni_C.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\01. Softuni C\bin\Debug\_01.Softuni_C.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\01. Softuni C\bin\Debug\_01.Softuni_C.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\01. Softuni C\obj\Debug\01. Softuni C.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\01. Softuni C\obj\Debug\01. Softuni C.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\01. Softuni C\obj\Debug\_01.Softuni_C.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam I - October 2016\01. Softuni C\obj\Debug\_01.Softuni_C.pdb
