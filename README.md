@@ -25,3 +25,10 @@
 9.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Programming%20Fundamentals%20Exam%20-%2023%20October%202016" > <b>Programming Fundamentals Exam - 23 October 2016</b> </a> 
 10.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Programming%20Fundamentals%20Sample%20Exam%20II%20-%20October%202016" > <b>Programming Fundamentals Sample Exam II - October 2016</b> </a> 
 11.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Programming%20Fundamentals%20Sample%20Exam%20I%20-%20October%202016" > <b>Programming Fundamentals Sample Exam I - October 2016</b> </a> 
+12.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Programming%20Fundamentals%20Sample%20Exam%20II%20-%20June%202016" > <b>Programming Fundamentals Sample Exam II - June 2016</b> </a> 
+13.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Programming%20Fundamentals%20Exam%20-%2012%20June%202016" > <b>Programming Fundamentals Sample Exam I - June 2016</b> </a> 
+14.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/---Programming%20Fundamentals%20Retake%20Exam%20-%2011%20September%202016" > <b>Programming Fundamentals Retake Exam - 11 September 2016</b> </a> 
+15.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Programming%20Fundamentals%20Retake%20Exam%20-%2005%20January%202018" > <b>Programming Fundamentals Retake Exam - 05 January 2018</b> </a> 
+
+## <b>Programming Fundamentals Extended - Exams</b>
+1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Programming%20Fundamentals%20Extended%20Exam%20-%2010%20December%202017" > <b>Programming Fundamentals Extended Exam - 10 December 2017</b> </a> 
