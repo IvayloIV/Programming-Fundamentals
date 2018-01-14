@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Thea", "01. Thea.csproj", "{91413C31-6FAF-48C2-9813-411EEC2EC1E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Trophon", "..\02. Trophon\02. Trophon.csproj", "{464A4CB8-3622-49E8-AD6A-3D8C2AFF1829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91413C31-6FAF-48C2-9813-411EEC2EC1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91413C31-6FAF-48C2-9813-411EEC2EC1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91413C31-6FAF-48C2-9813-411EEC2EC1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91413C31-6FAF-48C2-9813-411EEC2EC1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464A4CB8-3622-49E8-AD6A-3D8C2AFF1829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464A4CB8-3622-49E8-AD6A-3D8C2AFF1829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464A4CB8-3622-49E8-AD6A-3D8C2AFF1829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464A4CB8-3622-49E8-AD6A-3D8C2AFF1829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4215071A-4BCA-4BDF-A812-48CE6AC01037}
+	EndGlobalSection
+EndGlobal

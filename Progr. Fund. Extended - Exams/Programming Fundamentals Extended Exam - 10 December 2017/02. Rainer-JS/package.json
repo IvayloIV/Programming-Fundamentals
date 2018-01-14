@@ -1,0 +1,9 @@
+{
+  "name": "02.-rainer-js",
+  "version": "0.0.0",
+  "description": "02. Rainer-JS",
+  "main": "app.js",
+  "author": {
+    "name": "MASTER"
+  }
+}

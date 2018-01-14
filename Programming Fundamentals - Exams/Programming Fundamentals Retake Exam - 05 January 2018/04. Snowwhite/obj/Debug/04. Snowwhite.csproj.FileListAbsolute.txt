@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\04. Snowwhite\bin\Debug\_04.Snowwhite.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\04. Snowwhite\bin\Debug\_04.Snowwhite.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\04. Snowwhite\bin\Debug\_04.Snowwhite.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\04. Snowwhite\obj\Debug\04. Snowwhite.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\04. Snowwhite\obj\Debug\04. Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\04. Snowwhite\obj\Debug\_04.Snowwhite.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\04. Snowwhite\obj\Debug\_04.Snowwhite.pdb

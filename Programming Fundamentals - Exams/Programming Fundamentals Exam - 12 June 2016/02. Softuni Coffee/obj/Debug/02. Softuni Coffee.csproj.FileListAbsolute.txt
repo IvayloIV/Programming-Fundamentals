@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 12 June 2016\02. Softuni Coffee\bin\Debug\_02.Softuni_Coffee.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 12 June 2016\02. Softuni Coffee\bin\Debug\_02.Softuni_Coffee.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 12 June 2016\02. Softuni Coffee\bin\Debug\_02.Softuni_Coffee.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 12 June 2016\02. Softuni Coffee\obj\Debug\02. Softuni Coffee.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 12 June 2016\02. Softuni Coffee\obj\Debug\_02.Softuni_Coffee.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Exam - 12 June 2016\02. Softuni Coffee\obj\Debug\_02.Softuni_Coffee.pdb

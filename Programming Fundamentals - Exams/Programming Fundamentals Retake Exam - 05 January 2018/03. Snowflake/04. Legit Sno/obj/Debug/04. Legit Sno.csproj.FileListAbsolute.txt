@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\03. Snowflake\04. Legit Sno\bin\Debug\_04.Legit_Sno.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\03. Snowflake\04. Legit Sno\bin\Debug\_04.Legit_Sno.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\03. Snowflake\04. Legit Sno\bin\Debug\_04.Legit_Sno.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\03. Snowflake\04. Legit Sno\obj\Debug\04. Legit Sno.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\03. Snowflake\04. Legit Sno\obj\Debug\_04.Legit_Sno.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Retake Exam - 05 January 2018\03. Snowflake\04. Legit Sno\obj\Debug\_04.Legit_Sno.pdb

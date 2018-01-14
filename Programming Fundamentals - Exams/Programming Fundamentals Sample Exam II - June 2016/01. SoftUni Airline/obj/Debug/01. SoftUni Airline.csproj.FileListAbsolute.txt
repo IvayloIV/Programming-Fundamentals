@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - June 2016\01. SoftUni Airline\bin\Debug\_01.SoftUni_Airline.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - June 2016\01. SoftUni Airline\bin\Debug\_01.SoftUni_Airline.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - June 2016\01. SoftUni Airline\bin\Debug\_01.SoftUni_Airline.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - June 2016\01. SoftUni Airline\obj\Debug\01. SoftUni Airline.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - June 2016\01. SoftUni Airline\obj\Debug\01. SoftUni Airline.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - June 2016\01. SoftUni Airline\obj\Debug\_01.SoftUni_Airline.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - Exams\Programming Fundamentals Sample Exam II - June 2016\01. SoftUni Airline\obj\Debug\_01.SoftUni_Airline.pdb
