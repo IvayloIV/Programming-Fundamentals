@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\02. Icarus\bin\Debug\_02.Icarus.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\02. Icarus\bin\Debug\_02.Icarus.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\02. Icarus\bin\Debug\_02.Icarus.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\02. Icarus\obj\Debug\02. Icarus.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\02. Icarus\obj\Debug\02. Icarus.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\02. Icarus\obj\Debug\_02.Icarus.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\02. Icarus\obj\Debug\_02.Icarus.pdb

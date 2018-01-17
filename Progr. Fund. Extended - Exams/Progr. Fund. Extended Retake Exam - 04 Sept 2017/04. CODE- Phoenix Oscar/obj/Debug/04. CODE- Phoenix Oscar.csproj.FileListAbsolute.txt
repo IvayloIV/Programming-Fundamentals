@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\04. CODE- Phoenix Oscar\bin\Debug\_04.CODE__Phoenix_Oscar.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\04. CODE- Phoenix Oscar\bin\Debug\_04.CODE__Phoenix_Oscar.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\04. CODE- Phoenix Oscar\bin\Debug\_04.CODE__Phoenix_Oscar.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\04. CODE- Phoenix Oscar\obj\Debug\04. CODE- Phoenix Oscar.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\04. CODE- Phoenix Oscar\obj\Debug\04. CODE- Phoenix Oscar.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\04. CODE- Phoenix Oscar\obj\Debug\_04.CODE__Phoenix_Oscar.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Progr. Fund. Extended Retake Exam - 04 Sept 2017\04. CODE- Phoenix Oscar\obj\Debug\_04.CODE__Phoenix_Oscar.pdb
