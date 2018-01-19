@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\bin\Debug\_01.Trainers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\bin\Debug\_01.Trainers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\bin\Debug\_01.Trainers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\obj\Debug\01. Trainers.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\obj\Debug\01. Trainers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\obj\Debug\_01.Trainers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\obj\Debug\_01.Trainers.pdb
