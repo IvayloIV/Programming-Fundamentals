@@ -33,3 +33,4 @@
 ## <b>Programming Fundamentals Extended - Exams</b>
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Programming%20Fundamentals%20Extended%20Exam%20-%2010%20December%202017" > <b>Programming Fundamentals Extended Exam - 10 December 2017</b> </a> 
 2.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Progr.%20Fund.%20Extended%20Retake%20Exam%20-%2004%20Sept%202017" > <b>Programming Fundamentals Extended Retake Exam - 04 Sept 2017</b> </a>
+3.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Programming%20Fundamentals%20Extended%20Exam%20-%2020%20August%202017" > <b>Programming Fundamentals Extended Exam - 20 August 2017</b> </a>
