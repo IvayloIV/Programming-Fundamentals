@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\04. NSA\bin\Debug\_04.NSA.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\04. NSA\bin\Debug\_04.NSA.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\04. NSA\bin\Debug\_04.NSA.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\04. NSA\obj\Debug\04. NSA.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\04. NSA\obj\Debug\04. NSA.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\04. NSA\obj\Debug\_04.NSA.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\04. NSA\obj\Debug\_04.NSA.pdb

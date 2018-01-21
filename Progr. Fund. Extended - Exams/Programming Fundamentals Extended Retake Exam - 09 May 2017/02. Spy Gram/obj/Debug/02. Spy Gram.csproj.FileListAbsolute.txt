@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\02. Spy Gram\bin\Debug\_02.Spy_Gram.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\02. Spy Gram\bin\Debug\_02.Spy_Gram.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\02. Spy Gram\bin\Debug\_02.Spy_Gram.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\02. Spy Gram\obj\Debug\02. Spy Gram.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\02. Spy Gram\obj\Debug\02. Spy Gram.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\02. Spy Gram\obj\Debug\_02.Spy_Gram.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\02. Spy Gram\obj\Debug\_02.Spy_Gram.pdb

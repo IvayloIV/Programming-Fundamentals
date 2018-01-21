@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\03. Spyfer\bin\Debug\_03.Spyfer.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\03. Spyfer\bin\Debug\_03.Spyfer.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\03. Spyfer\bin\Debug\_03.Spyfer.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\03. Spyfer\obj\Debug\03. Spyfer.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\03. Spyfer\obj\Debug\03. Spyfer.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\03. Spyfer\obj\Debug\_03.Spyfer.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals Extended Retake Exam - 09 May 2017\03. Spyfer\obj\Debug\_03.Spyfer.pdb
