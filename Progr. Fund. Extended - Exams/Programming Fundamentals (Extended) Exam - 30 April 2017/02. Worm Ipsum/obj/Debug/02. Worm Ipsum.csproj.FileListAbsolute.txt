@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals (Extended) Exam - 30 April 2017\02. Worm Ipsum\bin\Debug\_02.Worm_Ipsum.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals (Extended) Exam - 30 April 2017\02. Worm Ipsum\bin\Debug\_02.Worm_Ipsum.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals (Extended) Exam - 30 April 2017\02. Worm Ipsum\bin\Debug\_02.Worm_Ipsum.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals (Extended) Exam - 30 April 2017\02. Worm Ipsum\obj\Debug\02. Worm Ipsum.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals (Extended) Exam - 30 April 2017\02. Worm Ipsum\obj\Debug\02. Worm Ipsum.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals (Extended) Exam - 30 April 2017\02. Worm Ipsum\obj\Debug\_02.Worm_Ipsum.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Programming Fundamentals (Extended) Exam - 30 April 2017\02. Worm Ipsum\obj\Debug\_02.Worm_Ipsum.pdb

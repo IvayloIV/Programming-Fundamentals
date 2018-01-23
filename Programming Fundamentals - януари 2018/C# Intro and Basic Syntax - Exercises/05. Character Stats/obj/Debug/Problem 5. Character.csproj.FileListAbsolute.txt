@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\Problem 5. Character\bin\Debug\Problem_5.Character.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\Problem 5. Character\bin\Debug\Problem_5.Character.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\Problem 5. Character\bin\Debug\Problem_5.Character.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\Problem 5. Character\obj\Debug\Problem 5. Character.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\Problem 5. Character\obj\Debug\Problem_5.Character.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\Problem 5. Character\obj\Debug\Problem_5.Character.pdb

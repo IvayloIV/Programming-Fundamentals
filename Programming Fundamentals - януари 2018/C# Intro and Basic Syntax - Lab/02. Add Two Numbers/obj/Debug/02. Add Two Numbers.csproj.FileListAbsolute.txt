@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\02. Add Two Numbers\obj\Debug\02. Add Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\02. Add Two Numbers\obj\Debug\_02.Add_Two_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\02. Add Two Numbers\obj\Debug\_02.Add_Two_Numbers.pdb

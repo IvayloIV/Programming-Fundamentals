@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\Problem 1. Greeting\bin\Debug\Problem_1.Greeting.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\Problem 1. Greeting\bin\Debug\Problem_1.Greeting.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\Problem 1. Greeting\bin\Debug\Problem_1.Greeting.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\Problem 1. Greeting\obj\Debug\Problem 1. Greeting.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\Problem 1. Greeting\obj\Debug\Problem 1. Greeting.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\Problem 1. Greeting\obj\Debug\Problem_1.Greeting.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\Problem 1. Greeting\obj\Debug\Problem_1.Greeting.pdb

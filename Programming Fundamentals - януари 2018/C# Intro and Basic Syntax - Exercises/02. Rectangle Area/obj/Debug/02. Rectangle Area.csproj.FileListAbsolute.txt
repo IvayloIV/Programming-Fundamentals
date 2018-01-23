@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\02. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb

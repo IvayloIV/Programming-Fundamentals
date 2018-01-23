@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\03. Miles to Kilometers\obj\Debug\03. Miles to Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Exercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.pdb

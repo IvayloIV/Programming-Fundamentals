@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\03. Employee Data\bin\Debug\_03.Employee_Data.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\03. Employee Data\bin\Debug\_03.Employee_Data.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\03. Employee Data\bin\Debug\_03.Employee_Data.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\03. Employee Data\obj\Debug\03. Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\03. Employee Data\obj\Debug\_03.Employee_Data.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\03. Employee Data\obj\Debug\_03.Employee_Data.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Intro and Basic Syntax - Lab\03. Employee Data\obj\Debug\03. Employee Data.csprojResolveAssemblyReference.cache
