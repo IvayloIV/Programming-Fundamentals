@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\03. Back in 30 Minutes\obj\Debug\03. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\03. Back in 30 Minutes\obj\Debug\_03.Back_in_30_Minutes.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\03. Back in 30 Minutes\obj\Debug\_03.Back_in_30_Minutes.pdb

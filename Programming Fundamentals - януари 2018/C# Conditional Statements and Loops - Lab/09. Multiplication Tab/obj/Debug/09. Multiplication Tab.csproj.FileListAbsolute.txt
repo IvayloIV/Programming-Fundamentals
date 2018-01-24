@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\09. Multiplication Tab\bin\Debug\_09.Multiplication_Tab.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\09. Multiplication Tab\bin\Debug\_09.Multiplication_Tab.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\09. Multiplication Tab\bin\Debug\_09.Multiplication_Tab.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\09. Multiplication Tab\obj\Debug\09. Multiplication Tab.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\09. Multiplication Tab\obj\Debug\_09.Multiplication_Tab.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\09. Multiplication Tab\obj\Debug\_09.Multiplication_Tab.pdb

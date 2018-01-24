@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\_02.Passed_or_Failed.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\_02.Passed_or_Failed.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\_02.Passed_or_Failed.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\02. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\_02.Passed_or_Failed.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\_02.Passed_or_Failed.pdb

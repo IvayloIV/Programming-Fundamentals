@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\06. Theatre Promotion\bin\Debug\_06.Theatre_Promotion.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\06. Theatre Promotion\bin\Debug\_06.Theatre_Promotion.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\06. Theatre Promotion\bin\Debug\_06.Theatre_Promotion.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\06. Theatre Promotion.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\_06.Theatre_Promotion.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\06. Theatre Promotion\obj\Debug\_06.Theatre_Promotion.pdb

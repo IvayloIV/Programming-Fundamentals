@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\obj\Debug\08. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\obj\Debug\_08.Sum_of_Odd_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\obj\Debug\_08.Sum_of_Odd_Numbers.pdb
