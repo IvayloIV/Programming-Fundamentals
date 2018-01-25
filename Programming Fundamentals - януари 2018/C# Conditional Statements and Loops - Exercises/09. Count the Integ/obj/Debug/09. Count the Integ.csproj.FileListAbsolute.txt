@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\09. Count the Integ\bin\Debug\_09.Count_the_Integ.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\09. Count the Integ\bin\Debug\_09.Count_the_Integ.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\09. Count the Integ\bin\Debug\_09.Count_the_Integ.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\09. Count the Integ\obj\Debug\09. Count the Integ.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\09. Count the Integ\obj\Debug\_09.Count_the_Integ.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\09. Count the Integ\obj\Debug\_09.Count_the_Integ.pdb

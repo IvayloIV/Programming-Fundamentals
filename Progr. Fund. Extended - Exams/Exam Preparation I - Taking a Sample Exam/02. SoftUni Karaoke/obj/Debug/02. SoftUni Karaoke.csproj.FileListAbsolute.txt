@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\obj\Debug\02. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\obj\Debug\02. SoftUni Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\obj\Debug\_02.SoftUni_Karaoke.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\obj\Debug\_02.SoftUni_Karaoke.pdb

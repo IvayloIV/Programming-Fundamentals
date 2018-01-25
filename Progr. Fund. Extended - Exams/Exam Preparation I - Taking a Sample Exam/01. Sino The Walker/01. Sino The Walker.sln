@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sino The Walker", "01. Sino The Walker.csproj", "{66B06504-B6D3-4CA0-BF3A-0216F59CDA45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SoftUni Karaoke", "..\02. SoftUni Karaoke\02. SoftUni Karaoke.csproj", "{C32D0F55-EDB3-4195-90F7-8B700F657ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B06504-B6D3-4CA0-BF3A-0216F59CDA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B06504-B6D3-4CA0-BF3A-0216F59CDA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B06504-B6D3-4CA0-BF3A-0216F59CDA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B06504-B6D3-4CA0-BF3A-0216F59CDA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32D0F55-EDB3-4195-90F7-8B700F657ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32D0F55-EDB3-4195-90F7-8B700F657ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32D0F55-EDB3-4195-90F7-8B700F657ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32D0F55-EDB3-4195-90F7-8B700F657ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CFDDB2D-69FD-4E68-90F8-3E4F3EF837ED}
+	EndGlobalSection
+EndGlobal

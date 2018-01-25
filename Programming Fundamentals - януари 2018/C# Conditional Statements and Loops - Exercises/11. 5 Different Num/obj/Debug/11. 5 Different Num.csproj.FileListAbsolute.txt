@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\11. 5 Different Num\bin\Debug\11. 5 Different Num.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\11. 5 Different Num\bin\Debug\11. 5 Different Num.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\11. 5 Different Num\bin\Debug\11. 5 Different Num.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\11. 5 Different Num\obj\Debug\11. 5 Different Num.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\11. 5 Different Num\obj\Debug\11. 5 Different Num.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\11. 5 Different Num\obj\Debug\11. 5 Different Num.pdb

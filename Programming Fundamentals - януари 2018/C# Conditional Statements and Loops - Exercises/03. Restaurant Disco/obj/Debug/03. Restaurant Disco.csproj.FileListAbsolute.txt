@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\03. Restaurant Disco\bin\Debug\_03.Restaurant_Disco.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\03. Restaurant Disco\bin\Debug\_03.Restaurant_Disco.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\03. Restaurant Disco\bin\Debug\_03.Restaurant_Disco.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\03. Restaurant Disco\obj\Debug\03. Restaurant Disco.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\03. Restaurant Disco\obj\Debug\_03.Restaurant_Disco.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\03. Restaurant Disco\obj\Debug\_03.Restaurant_Disco.pdb

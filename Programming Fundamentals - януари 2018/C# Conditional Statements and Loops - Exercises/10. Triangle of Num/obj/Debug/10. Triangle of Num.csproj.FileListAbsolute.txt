@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\10. Triangle of Num\bin\Debug\_10.Triangle_of_Num.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\10. Triangle of Num\bin\Debug\_10.Triangle_of_Num.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\10. Triangle of Num\bin\Debug\_10.Triangle_of_Num.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\10. Triangle of Num\obj\Debug\10. Triangle of Num.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\10. Triangle of Num\obj\Debug\_10.Triangle_of_Num.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\10. Triangle of Num\obj\Debug\_10.Triangle_of_Num.pdb

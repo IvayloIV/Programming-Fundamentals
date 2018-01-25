@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\obj\Debug\15. Neighbour Wars.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\obj\Debug\15. Neighbour Wars.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\obj\Debug\_15.Neighbour_Wars.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\obj\Debug\_15.Neighbour_Wars.pdb
