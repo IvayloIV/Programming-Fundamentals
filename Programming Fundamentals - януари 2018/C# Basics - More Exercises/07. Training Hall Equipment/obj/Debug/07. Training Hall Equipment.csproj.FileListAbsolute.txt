@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\07. Training Hall Equipment.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\_07.Training_Hall_Equipment.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\07. Training Hall Equipment\obj\Debug\_07.Training_Hall_Equipment.pdb

@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\08. SMS Typing\bin\Debug\_08.SMS_Typing.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\08. SMS Typing\bin\Debug\_08.SMS_Typing.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\08. SMS Typing\bin\Debug\_08.SMS_Typing.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\08. SMS Typing\obj\Debug\08. SMS Typing.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\08. SMS Typing\obj\Debug\08. SMS Typing.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\08. SMS Typing\obj\Debug\_08.SMS_Typing.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\08. SMS Typing\obj\Debug\_08.SMS_Typing.pdb

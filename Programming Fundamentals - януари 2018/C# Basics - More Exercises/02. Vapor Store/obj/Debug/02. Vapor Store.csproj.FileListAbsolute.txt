@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\02. Vapor Store\bin\Debug\_02.Vapor_Store.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\02. Vapor Store\bin\Debug\_02.Vapor_Store.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\02. Vapor Store\bin\Debug\_02.Vapor_Store.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\02. Vapor Store\obj\Debug\02. Vapor Store.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\02. Vapor Store\obj\Debug\_02.Vapor_Store.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\02. Vapor Store\obj\Debug\_02.Vapor_Store.pdb

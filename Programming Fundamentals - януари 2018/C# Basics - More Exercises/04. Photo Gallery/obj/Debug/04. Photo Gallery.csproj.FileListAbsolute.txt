@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\04. Photo Gallery.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.pdb

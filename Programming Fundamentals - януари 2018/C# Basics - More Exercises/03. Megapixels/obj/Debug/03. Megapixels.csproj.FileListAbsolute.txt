@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\03. Megapixels\obj\Debug\03. Megapixels.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\03. Megapixels\obj\Debug\_03.Megapixels.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\C# Basics - More Exercises\03. Megapixels\obj\Debug\_03.Megapixels.pdb
