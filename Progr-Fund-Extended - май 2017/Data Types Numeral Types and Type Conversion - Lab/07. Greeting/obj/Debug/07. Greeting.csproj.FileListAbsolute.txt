@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\07. Greeting\bin\Debug\_07.Greeting.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\07. Greeting\bin\Debug\_07.Greeting.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\07. Greeting\bin\Debug\_07.Greeting.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\07. Greeting\obj\Debug\07. Greeting.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\07. Greeting\obj\Debug\_07.Greeting.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\07. Greeting\obj\Debug\_07.Greeting.pdb

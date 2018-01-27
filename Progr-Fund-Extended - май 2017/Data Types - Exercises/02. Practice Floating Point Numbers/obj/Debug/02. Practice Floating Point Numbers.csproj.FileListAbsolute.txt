@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\02. Practice Floating Point Numbers\bin\Debug\_02.Practice_Floating_Point_Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\02. Practice Floating Point Numbers\bin\Debug\_02.Practice_Floating_Point_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\02. Practice Floating Point Numbers\bin\Debug\_02.Practice_Floating_Point_Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\02. Practice Floating Point Numbers\obj\Debug\02. Practice Floating Point Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\02. Practice Floating Point Numbers\obj\Debug\_02.Practice_Floating_Point_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\02. Practice Floating Point Numbers\obj\Debug\_02.Practice_Floating_Point_Numbers.pdb

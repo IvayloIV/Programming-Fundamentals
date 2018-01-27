@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\09. Refactor Specia\bin\Debug\_09.Refactor_Specia.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\09. Refactor Specia\bin\Debug\_09.Refactor_Specia.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\09. Refactor Specia\bin\Debug\_09.Refactor_Specia.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\09. Refactor Specia\obj\Debug\09. Refactor Specia.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\09. Refactor Specia\obj\Debug\_09.Refactor_Specia.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\09. Refactor Specia\obj\Debug\_09.Refactor_Specia.pdb

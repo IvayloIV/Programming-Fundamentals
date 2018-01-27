@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\06. Increment Variable\bin\Debug\_06.Increment_Variable.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\06. Increment Variable\bin\Debug\_06.Increment_Variable.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\06. Increment Variable\bin\Debug\_06.Increment_Variable.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\06. Increment Variable\obj\Debug\06. Increment Variable.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\06. Increment Variable\obj\Debug\06. Increment Variable.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\06. Increment Variable\obj\Debug\_06.Increment_Variable.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\06. Increment Variable\obj\Debug\_06.Increment_Variable.pdb

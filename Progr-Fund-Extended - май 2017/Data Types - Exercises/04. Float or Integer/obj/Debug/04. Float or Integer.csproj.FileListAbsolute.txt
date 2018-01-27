@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\04. Float or Integer\bin\Debug\_04.Float_or_Integer.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\04. Float or Integer\bin\Debug\_04.Float_or_Integer.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\04. Float or Integer\bin\Debug\_04.Float_or_Integer.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\04. Float or Integer\obj\Debug\04. Float or Integer.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\04. Float or Integer\obj\Debug\_04.Float_or_Integer.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\04. Float or Integer\obj\Debug\_04.Float_or_Integer.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\09.  Triangle Formations\bin\Debug\_09.Triangle_Formations.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\09.  Triangle Formations\bin\Debug\_09.Triangle_Formations.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\09.  Triangle Formations\bin\Debug\_09.Triangle_Formations.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\09.  Triangle Formations\obj\Debug\09.  Triangle Formations.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\09.  Triangle Formations\obj\Debug\_09.Triangle_Formations.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\09.  Triangle Formations\obj\Debug\_09.Triangle_Formations.pdb

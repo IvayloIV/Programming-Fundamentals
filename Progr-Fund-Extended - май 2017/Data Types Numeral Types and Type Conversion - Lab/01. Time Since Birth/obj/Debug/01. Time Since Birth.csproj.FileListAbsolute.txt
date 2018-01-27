@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\01. Time Since Birth\bin\Debug\_01.Time_Since_Birth.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\01. Time Since Birth\bin\Debug\_01.Time_Since_Birth.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\01. Time Since Birth\bin\Debug\_01.Time_Since_Birth.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\01. Time Since Birth\obj\Debug\01. Time Since Birth.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\01. Time Since Birth\obj\Debug\01. Time Since Birth.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\01. Time Since Birth\obj\Debug\_01.Time_Since_Birth.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\01. Time Since Birth\obj\Debug\_01.Time_Since_Birth.pdb

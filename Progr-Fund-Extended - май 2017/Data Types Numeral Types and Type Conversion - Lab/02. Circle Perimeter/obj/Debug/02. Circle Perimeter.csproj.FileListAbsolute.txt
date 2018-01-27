@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\2. Circle Perimeter\bin\Debug\_2.Circle_Perimeter.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\2. Circle Perimeter\bin\Debug\_2.Circle_Perimeter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\2. Circle Perimeter\bin\Debug\_2.Circle_Perimeter.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\2. Circle Perimeter\obj\Debug\02. Circle Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\2. Circle Perimeter\obj\Debug\_2.Circle_Perimeter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\2. Circle Perimeter\obj\Debug\_2.Circle_Perimeter.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\2. Circle Perimeter\obj\Debug\02. Circle Perimeter.csprojResolveAssemblyReference.cache

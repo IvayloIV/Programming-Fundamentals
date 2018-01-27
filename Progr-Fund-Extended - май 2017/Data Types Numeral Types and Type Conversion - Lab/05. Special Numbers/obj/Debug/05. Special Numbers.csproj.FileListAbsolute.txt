@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\05. Special Numbers\obj\Debug\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types Numeral Types and Type Conversion - Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb

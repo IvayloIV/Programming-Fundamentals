@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\05. Distance of the Stars\bin\Debug\_05.Distance_of_the_Stars.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\05. Distance of the Stars\bin\Debug\_05.Distance_of_the_Stars.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\05. Distance of the Stars\bin\Debug\_05.Distance_of_the_Stars.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\05. Distance of the Stars\obj\Debug\05. Distance of the Stars.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\05. Distance of the Stars\obj\Debug\_05.Distance_of_the_Stars.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\05. Distance of the Stars\obj\Debug\_05.Distance_of_the_Stars.pdb

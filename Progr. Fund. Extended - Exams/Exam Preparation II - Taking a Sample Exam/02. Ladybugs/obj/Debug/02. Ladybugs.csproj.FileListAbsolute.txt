@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation II - Taking a Sample Exam\02. Ladybugs\bin\Debug\_02.Ladybugs.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation II - Taking a Sample Exam\02. Ladybugs\bin\Debug\_02.Ladybugs.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation II - Taking a Sample Exam\02. Ladybugs\bin\Debug\_02.Ladybugs.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation II - Taking a Sample Exam\02. Ladybugs\obj\Debug\02. Ladybugs.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation II - Taking a Sample Exam\02. Ladybugs\obj\Debug\_02.Ladybugs.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation II - Taking a Sample Exam\02. Ladybugs\obj\Debug\_02.Ladybugs.pdb

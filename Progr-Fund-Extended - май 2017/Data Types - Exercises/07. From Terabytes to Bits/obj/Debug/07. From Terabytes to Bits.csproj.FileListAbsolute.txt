@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\07. From Terabytes to Bits\bin\Debug\_07.From_Terabytes_to_Bits.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\07. From Terabytes to Bits\bin\Debug\_07.From_Terabytes_to_Bits.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\07. From Terabytes to Bits\bin\Debug\_07.From_Terabytes_to_Bits.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\07. From Terabytes to Bits\obj\Debug\07. From Terabytes to Bits.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\07. From Terabytes to Bits\obj\Debug\07. From Terabytes to Bits.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\07. From Terabytes to Bits\obj\Debug\_07.From_Terabytes_to_Bits.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\07. From Terabytes to Bits\obj\Debug\_07.From_Terabytes_to_Bits.pdb
