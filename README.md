@@ -20,6 +20,10 @@
 9.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Extended%20-%20%D0%BD%D0%BE%D0%B5%D0%BC%D0%B2%D1%80%D0%B8%202017/Exam%20Preparation%20I" > <b>Exam Preparation I</b> </a>
 10.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Extended%20-%20%D0%BD%D0%BE%D0%B5%D0%BC%D0%B2%D1%80%D0%B8%202017/Exam%20Preparation%20II" > <b>Exam Preparation II</b> </a>
 
+## <b>Programming Fundamentals - Extended - май 2017</b>
+1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Data%20Types%20Numeral%20Types%20and%20Type%20Conversion%20-%20Lab" > <b>Data Types Numeral Types and Type Conversion - Lab</b> </a> 
+2.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Data%20Types%20-%20Exercises" > <b>Data Types - Exercises</b> </a> 
+
 ## <b>Programming Fundamentals - Exams</b>
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20I" > <b>Exam Preparation I</b> </a> 
 2.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20II" > <b>Exam Preparation II</b> </a> 
@@ -44,3 +48,4 @@
 4.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Programming%20Fundamentals%20Extended%20Retake%20Exam%20-%2009%20May%202017" > <b>Programming Fundamentals Extended Retake Exam - 09 May 2017</b> </a>
 5.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Programming%20Fundamentals%20(Extended)%20Exam%20-%2030%20April%202017" > <b>Programming Fundamentals Extended Exam - 30 April 2017</b> </a>
 6.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Exam%20Preparation%20I%20-%20Taking%20a%20Sample%20Exam" > <b>Exam Preparation I - Taking a Sample Exam</b> </a>
+7.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Exam%20Preparation%20II%20-%20Taking%20a%20Sample%20Exam" > <b>Exam Preparation II - Taking a Sample Exam</b> </a>
