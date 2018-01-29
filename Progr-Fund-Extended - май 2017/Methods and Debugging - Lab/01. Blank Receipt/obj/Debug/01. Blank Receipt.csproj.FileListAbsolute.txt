@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\01. Blank Receipt\bin\Debug\_01.Blank_Receipt.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\01. Blank Receipt\bin\Debug\_01.Blank_Receipt.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\01. Blank Receipt\bin\Debug\_01.Blank_Receipt.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\01. Blank Receipt\obj\Debug\01. Blank Receipt.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\01. Blank Receipt\obj\Debug\01. Blank Receipt.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\01. Blank Receipt\obj\Debug\_01.Blank_Receipt.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\01. Blank Receipt\obj\Debug\_01.Blank_Receipt.pdb

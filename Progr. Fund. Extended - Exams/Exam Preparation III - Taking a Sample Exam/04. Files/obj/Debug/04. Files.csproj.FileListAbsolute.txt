@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\04. Files\bin\Debug\_04.Files.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\04. Files\bin\Debug\_04.Files.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\04. Files\bin\Debug\_04.Files.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\04. Files\obj\Debug\04. Files.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\04. Files\obj\Debug\04. Files.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\04. Files\obj\Debug\_04.Files.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\04. Files\obj\Debug\_04.Files.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\11. Practice Characters and Strings\bin\Debug\_11.Practice_Characters_and_Strings.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\11. Practice Characters and Strings\bin\Debug\_11.Practice_Characters_and_Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\11. Practice Characters and Strings\bin\Debug\_11.Practice_Characters_and_Strings.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\11. Practice Characters and Strings\obj\Debug\11. Practice Characters and Strings.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\11. Practice Characters and Strings\obj\Debug\_11.Practice_Characters_and_Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\11. Practice Characters and Strings\obj\Debug\_11.Practice_Characters_and_Strings.pdb

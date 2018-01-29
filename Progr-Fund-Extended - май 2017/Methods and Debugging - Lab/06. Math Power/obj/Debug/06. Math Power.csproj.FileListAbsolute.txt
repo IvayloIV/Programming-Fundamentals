@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\06. Math Power\bin\Debug\_06.Math_Power.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\06. Math Power\bin\Debug\_06.Math_Power.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\06. Math Power\bin\Debug\_06.Math_Power.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\06. Math Power\obj\Debug\06. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\06. Math Power\obj\Debug\_06.Math_Power.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\06. Math Power\obj\Debug\_06.Math_Power.pdb

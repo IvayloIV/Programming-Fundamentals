@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Variable in Hexadecimal Format", "12. Variable in Hexadecimal Format.csproj", "{968FB5EA-0ACF-464C-800C-7E69F454EC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Digits with Words", "..\13. Digits with Words\13. Digits with Words.csproj", "{1EAF1C35-CBE4-4C43-9431-2A50948376AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. ASCII String", "..\14. ASCII String\14. ASCII String.csproj", "{45346710-B5E5-4B29-BBF8-135E0BA0DD8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Calculator", "..\15. Calculator\15. Calculator.csproj", "{2C57A7EC-3A16-4406-A76C-B26F5CA15DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Tricky Strings", "..\16. Tricky Strings\16. Tricky Strings.csproj", "{B013823A-1E37-4760-AE1B-42732130F3BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Cypher Roulette", "..\17. Cypher Roulette\17. Cypher Roulette.csproj", "{F7DD4EC7-CA72-4C22-8BA8-BD65C7C09FC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{968FB5EA-0ACF-464C-800C-7E69F454EC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968FB5EA-0ACF-464C-800C-7E69F454EC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968FB5EA-0ACF-464C-800C-7E69F454EC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968FB5EA-0ACF-464C-800C-7E69F454EC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EAF1C35-CBE4-4C43-9431-2A50948376AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAF1C35-CBE4-4C43-9431-2A50948376AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAF1C35-CBE4-4C43-9431-2A50948376AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAF1C35-CBE4-4C43-9431-2A50948376AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45346710-B5E5-4B29-BBF8-135E0BA0DD8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45346710-B5E5-4B29-BBF8-135E0BA0DD8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45346710-B5E5-4B29-BBF8-135E0BA0DD8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45346710-B5E5-4B29-BBF8-135E0BA0DD8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C57A7EC-3A16-4406-A76C-B26F5CA15DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C57A7EC-3A16-4406-A76C-B26F5CA15DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C57A7EC-3A16-4406-A76C-B26F5CA15DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C57A7EC-3A16-4406-A76C-B26F5CA15DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B013823A-1E37-4760-AE1B-42732130F3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B013823A-1E37-4760-AE1B-42732130F3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B013823A-1E37-4760-AE1B-42732130F3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B013823A-1E37-4760-AE1B-42732130F3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7DD4EC7-CA72-4C22-8BA8-BD65C7C09FC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DD4EC7-CA72-4C22-8BA8-BD65C7C09FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DD4EC7-CA72-4C22-8BA8-BD65C7C09FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DD4EC7-CA72-4C22-8BA8-BD65C7C09FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A0751A5-0714-4F35-9FC0-523DF31FD300}
+	EndGlobalSection
+EndGlobal

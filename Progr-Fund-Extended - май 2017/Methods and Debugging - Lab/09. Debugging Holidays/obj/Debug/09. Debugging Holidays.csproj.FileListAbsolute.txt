@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\09. Debugging Holidays\bin\Debug\_09.Debugging_Holidays.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\09. Debugging Holidays\bin\Debug\_09.Debugging_Holidays.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\09. Debugging Holidays\bin\Debug\_09.Debugging_Holidays.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\09. Debugging Holidays\obj\Debug\09. Debugging Holidays.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\09. Debugging Holidays\obj\Debug\09. Debugging Holidays.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\09. Debugging Holidays\obj\Debug\_09.Debugging_Holidays.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\09. Debugging Holidays\obj\Debug\_09.Debugging_Holidays.pdb

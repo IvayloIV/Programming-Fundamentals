@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\02. Sign of Integer Number\obj\Debug\02. Sign of Integer Number.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\02. Sign of Integer Number\obj\Debug\02. Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.pdb

@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\08. Debugging Multiply\bin\Debug\_08.Debugging_Multiply.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\08. Debugging Multiply\bin\Debug\_08.Debugging_Multiply.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\08. Debugging Multiply\bin\Debug\_08.Debugging_Multiply.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\08. Debugging Multiply\obj\Debug\08. Debugging Multiply.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\08. Debugging Multiply\obj\Debug\08. Debugging Multiply.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\08. Debugging Multiply\obj\Debug\_08.Debugging_Multiply.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\08. Debugging Multiply\obj\Debug\_08.Debugging_Multiply.pdb

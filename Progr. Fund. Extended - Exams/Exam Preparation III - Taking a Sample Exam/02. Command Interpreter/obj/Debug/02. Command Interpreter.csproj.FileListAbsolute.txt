@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\02. Command Interpreter\obj\Debug\02. Command Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\02. Command Interpreter\obj\Debug\02. Command Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.pdb

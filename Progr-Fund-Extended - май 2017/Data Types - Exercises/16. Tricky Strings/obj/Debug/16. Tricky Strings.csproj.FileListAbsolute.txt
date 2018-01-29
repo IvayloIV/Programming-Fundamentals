@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\16. Tricky Strings\obj\Debug\16. Tricky Strings.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\16. Tricky Strings\obj\Debug\_16.Tricky_Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\16. Tricky Strings\obj\Debug\_16.Tricky_Strings.pdb

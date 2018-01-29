@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\17. Cypher Roulette\bin\Debug\_17.Cypher_Roulette.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\17. Cypher Roulette\bin\Debug\_17.Cypher_Roulette.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\17. Cypher Roulette\bin\Debug\_17.Cypher_Roulette.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\17. Cypher Roulette\obj\Debug\17. Cypher Roulette.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\17. Cypher Roulette\obj\Debug\_17.Cypher_Roulette.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\17. Cypher Roulette\obj\Debug\_17.Cypher_Roulette.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\17. Cypher Roulette\obj\Debug\17. Cypher Roulette.csprojResolveAssemblyReference.cache

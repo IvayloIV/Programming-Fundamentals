@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\02. Circle Area\bin\Debug\_02.Circle_Area.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\02. Circle Area\bin\Debug\_02.Circle_Area.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\02. Circle Area\bin\Debug\_02.Circle_Area.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\02. Circle Area\obj\Debug\02. Circle Area.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\02. Circle Area\obj\Debug\02. Circle Area.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\02. Circle Area\obj\Debug\_02.Circle_Area.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\02. Circle Area\obj\Debug\_02.Circle_Area.pdb

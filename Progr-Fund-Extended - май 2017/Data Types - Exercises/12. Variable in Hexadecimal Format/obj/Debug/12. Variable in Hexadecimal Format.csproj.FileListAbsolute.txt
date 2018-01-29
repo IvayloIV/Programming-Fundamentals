@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\12. Variable in Hexadecimal Format\bin\Debug\_12.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\12. Variable in Hexadecimal Format\bin\Debug\_12.Variable_in_Hexadecimal_Format.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\12. Variable in Hexadecimal Format\bin\Debug\_12.Variable_in_Hexadecimal_Format.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\12. Variable in Hexadecimal Format\obj\Debug\12. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\12. Variable in Hexadecimal Format\obj\Debug\12. Variable in Hexadecimal Format.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\12. Variable in Hexadecimal Format\obj\Debug\_12.Variable_in_Hexadecimal_Format.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Data Types - Exercises\12. Variable in Hexadecimal Format\obj\Debug\_12.Variable_in_Hexadecimal_Format.pdb

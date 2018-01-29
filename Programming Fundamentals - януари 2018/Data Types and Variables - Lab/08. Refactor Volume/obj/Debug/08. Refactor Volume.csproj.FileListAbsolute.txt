@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\08. Refactor Volume\bin\Debug\_08.Refactor_Volume.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\08. Refactor Volume\bin\Debug\_08.Refactor_Volume.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\08. Refactor Volume\bin\Debug\_08.Refactor_Volume.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\08. Refactor Volume\obj\Debug\08. Refactor Volume.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\08. Refactor Volume\obj\Debug\_08.Refactor_Volume.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\08. Refactor Volume\obj\Debug\_08.Refactor_Volume.pdb

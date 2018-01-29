@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\6. Triples of Latin Letters\bin\Debug\_6.Triples_of_Latin_Letters.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\6. Triples of Latin Letters\bin\Debug\_6.Triples_of_Latin_Letters.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\6. Triples of Latin Letters\bin\Debug\_6.Triples_of_Latin_Letters.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\6. Triples of Latin Letters\obj\Debug\6. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\6. Triples of Latin Letters\obj\Debug\_6.Triples_of_Latin_Letters.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - Lab\6. Triples of Latin Letters\obj\Debug\_6.Triples_of_Latin_Letters.pdb

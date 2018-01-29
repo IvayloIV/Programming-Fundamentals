@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\10. Debugging Price Change Alert\bin\Debug\_10.Debugging_Price_Change_Alert.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\10. Debugging Price Change Alert\bin\Debug\_10.Debugging_Price_Change_Alert.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\10. Debugging Price Change Alert\bin\Debug\_10.Debugging_Price_Change_Alert.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\10. Debugging Price Change Alert\obj\Debug\10. Debugging Price Change Alert.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\10. Debugging Price Change Alert\obj\Debug\_10.Debugging_Price_Change_Alert.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Methods and Debugging - Lab\10. Debugging Price Change Alert\obj\Debug\_10.Debugging_Price_Change_Alert.pdb

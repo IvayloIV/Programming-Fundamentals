@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\03. Rage Quit\bin\Debug\_03.Rage_Quit.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\03. Rage Quit\obj\Debug\03. Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\03. Rage Quit\obj\Debug\03. Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\03. Rage Quit\obj\Debug\_03.Rage_Quit.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation III - Taking a Sample Exam\03. Rage Quit\obj\Debug\_03.Rage_Quit.pdb
