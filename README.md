@@ -8,6 +8,9 @@
 4.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/C%23%20Conditional%20Statements%20and%20Loops%20-%20Exercises" > <b>C# Conditional Statements and Loops - Exercises</b> </a> 
 5.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/C%23%20Basics%20-%20More%20Exercises" > <b>C# Basics - More Exercises</b> </a> 
 6.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Data%20Types%20and%20Variables%20-%20Lab" > <b>Data Types and Variables - Lab</b> </a> 
+7.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Data%20Types%20-%20Exercises" > <b>Data Types and Variables - Exercises</b> </a> 
+8.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Data%20Types%20and%20Variables%20-%20More%20Exercises" > <b>Data Types and Variables - More Exercises</b> </a> 
+9.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Methods.%20Debugging%20and%20Troubleshooting%20Code%20-%20Lab" > <b>Methods. Debugging and Troubleshooting Code - Lab</b> </a> 
 
 ## <b>Programming Fundamentals - Extended - ноември 2017</b>
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Extended%20-%20%D0%BD%D0%BE%D0%B5%D0%BC%D0%B2%D1%80%D0%B8%202017/Data%20Types%2C%20Variables%20and%20Methods%20%20Lab" > <b>Data Types, Variables and Methods - Lab</b> </a> 
