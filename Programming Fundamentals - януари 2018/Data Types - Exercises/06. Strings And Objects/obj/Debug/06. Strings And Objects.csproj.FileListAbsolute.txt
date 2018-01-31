@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\06. Strings And Objects\obj\Debug\06. Strings And Objects.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\02. Practice Floating Points\obj\Debug\02. Practice Floating Points.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.pdb

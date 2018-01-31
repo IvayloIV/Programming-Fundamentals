@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\01. Practice Integers\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\01. Practice Integers\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\01. Practice Integers\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\01. Practice Integers\09. Reversed chars\obj\Debug\09. Reversed chars.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\01. Practice Integers\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\01. Practice Integers\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

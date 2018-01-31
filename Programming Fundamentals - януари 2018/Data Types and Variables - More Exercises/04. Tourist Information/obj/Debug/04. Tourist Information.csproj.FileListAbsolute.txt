@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\04. Tourist Information\bin\Debug\_04.Tourist_Information.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\04. Tourist Information\bin\Debug\_04.Tourist_Information.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\04. Tourist Information\bin\Debug\_04.Tourist_Information.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\04. Tourist Information\obj\Debug\04. Tourist Information.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\04. Tourist Information\obj\Debug\_04.Tourist_Information.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\04. Tourist Information\obj\Debug\_04.Tourist_Information.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\08. Employee Data\obj\Debug\08. Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\08. Employee Data\obj\Debug\_08.Employee_Data.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\08. Employee Data\obj\Debug\_08.Employee_Data.pdb

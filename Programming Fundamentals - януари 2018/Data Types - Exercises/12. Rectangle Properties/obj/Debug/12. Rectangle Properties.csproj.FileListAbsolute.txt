@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\12. Rectangle Properties\obj\Debug\12. Rectangle Properties.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

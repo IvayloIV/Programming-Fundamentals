@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Betw\bin\Debug\_10.Holidays_Betw.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Betw\bin\Debug\_10.Holidays_Betw.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Betw\bin\Debug\_10.Holidays_Betw.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Betw\obj\Debug\10. Holidays Betw.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Betw\obj\Debug\10. Holidays Betw.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Betw\obj\Debug\_10.Holidays_Betw.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Betw\obj\Debug\_10.Holidays_Betw.pdb

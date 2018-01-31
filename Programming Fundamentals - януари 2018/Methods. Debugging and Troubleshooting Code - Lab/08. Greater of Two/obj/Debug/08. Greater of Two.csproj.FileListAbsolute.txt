@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two\bin\Debug\_08.Greater_of_Two.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two\bin\Debug\_08.Greater_of_Two.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two\bin\Debug\_08.Greater_of_Two.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two\obj\Debug\08. Greater of Two.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two\obj\Debug\_08.Greater_of_Two.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two\obj\Debug\_08.Greater_of_Two.pdb

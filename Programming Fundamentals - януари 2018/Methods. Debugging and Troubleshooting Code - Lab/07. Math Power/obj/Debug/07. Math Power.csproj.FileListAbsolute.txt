@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\07. Math Power\bin\Debug\_07.Math_Power.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\07. Math Power\bin\Debug\_07.Math_Power.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\07. Math Power\bin\Debug\_07.Math_Power.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\07. Math Power\obj\Debug\07. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\07. Math Power\obj\Debug\_07.Math_Power.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\07. Math Power\obj\Debug\_07.Math_Power.pdb

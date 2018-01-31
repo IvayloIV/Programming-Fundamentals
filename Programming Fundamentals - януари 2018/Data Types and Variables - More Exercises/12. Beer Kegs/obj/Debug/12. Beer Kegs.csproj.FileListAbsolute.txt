@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\12. Beer Kegs\bin\Debug\_12.Beer_Kegs.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\12. Beer Kegs\bin\Debug\_12.Beer_Kegs.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\12. Beer Kegs\bin\Debug\_12.Beer_Kegs.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\12. Beer Kegs\obj\Debug\12. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\12. Beer Kegs\obj\Debug\_12.Beer_Kegs.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\12. Beer Kegs\obj\Debug\_12.Beer_Kegs.pdb

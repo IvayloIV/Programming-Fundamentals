@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change\bin\Debug\_11.Price_Change.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change\bin\Debug\_11.Price_Change.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change\bin\Debug\_11.Price_Change.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change\obj\Debug\11. Price Change.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change\obj\Debug\_11.Price_Change.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change\obj\Debug\_11.Price_Change.pdb

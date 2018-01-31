@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer\bin\Debug\_02.Sign_of_Integer.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer\bin\Debug\_02.Sign_of_Integer.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer\bin\Debug\_02.Sign_of_Integer.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer\obj\Debug\02. Sign of Integer.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer\obj\Debug\_02.Sign_of_Integer.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer\obj\Debug\_02.Sign_of_Integer.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\11. Convert Speed Units\bin\Debug\_11.Convert_Speed_Units.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\11. Convert Speed Units\obj\Debug\11. Convert Speed Units.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\11. Convert Speed Units\obj\Debug\_11.Convert_Speed_Units.pdb

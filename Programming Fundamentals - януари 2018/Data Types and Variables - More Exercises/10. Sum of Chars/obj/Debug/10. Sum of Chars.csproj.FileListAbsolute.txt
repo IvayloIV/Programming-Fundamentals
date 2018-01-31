@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\10. Sum of Chars\bin\Debug\_10.Sum_of_Chars.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\10. Sum of Chars\bin\Debug\_10.Sum_of_Chars.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\10. Sum of Chars\bin\Debug\_10.Sum_of_Chars.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\10. Sum of Chars\obj\Debug\10. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\10. Sum of Chars\obj\Debug\_10.Sum_of_Chars.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\10. Sum of Chars\obj\Debug\_10.Sum_of_Chars.pdb

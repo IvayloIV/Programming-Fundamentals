@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\13. Vowel or Digit\obj\Debug\13. Vowel or Digit.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.pdb

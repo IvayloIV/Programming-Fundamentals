@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\05. Boolean Variable\obj\Debug\05. Boolean Variable.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

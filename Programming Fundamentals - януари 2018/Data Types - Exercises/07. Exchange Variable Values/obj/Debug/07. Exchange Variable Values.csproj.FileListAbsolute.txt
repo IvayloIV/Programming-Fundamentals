@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\07. Exchange Variable Values\obj\Debug\07. Exchange Variable Values.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.pdb

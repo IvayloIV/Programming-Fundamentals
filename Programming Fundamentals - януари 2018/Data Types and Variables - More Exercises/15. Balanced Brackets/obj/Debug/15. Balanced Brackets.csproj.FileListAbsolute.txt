@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\15. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\_15.Balanced_Brackets.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\_15.Balanced_Brackets.pdb

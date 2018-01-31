@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\05. Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\_05.Weather_Forecast.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\_05.Weather_Forecast.pdb

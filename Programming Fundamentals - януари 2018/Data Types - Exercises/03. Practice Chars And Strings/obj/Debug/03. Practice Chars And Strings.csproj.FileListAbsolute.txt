@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\03. Practice Chars And Strings\obj\Debug\03. Practice Chars And Strings.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.pdb

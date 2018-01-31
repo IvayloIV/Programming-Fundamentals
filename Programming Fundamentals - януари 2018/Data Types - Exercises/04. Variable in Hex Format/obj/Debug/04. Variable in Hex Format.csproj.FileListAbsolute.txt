@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\04. Variable in Hex Format\obj\Debug\04. Variable in Hex Format.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb

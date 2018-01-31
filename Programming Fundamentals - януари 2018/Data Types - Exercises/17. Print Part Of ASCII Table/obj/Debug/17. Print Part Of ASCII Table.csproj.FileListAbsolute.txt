@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\17. Print Part Of ASCII Table\obj\Debug\17. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\17. Print Part Of ASCII Table\obj\Debug\_17.Print_Part_Of_ASCII_Table.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\17. Print Part Of ASCII Table\obj\Debug\_17.Print_Part_Of_ASCII_Table.pdb

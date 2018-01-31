@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\18. Different Integers Size\obj\Debug\18. Different Integers Size.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Data Types - Exercises\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.pdb
