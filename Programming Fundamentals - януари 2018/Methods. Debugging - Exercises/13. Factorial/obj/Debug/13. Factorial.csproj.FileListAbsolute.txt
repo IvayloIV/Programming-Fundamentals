@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\13. Factorial\bin\Debug\_13.Factorial.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\13. Factorial\bin\Debug\_13.Factorial.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\13. Factorial\bin\Debug\_13.Factorial.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\13. Factorial\obj\Debug\13. Factorial.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\13. Factorial\obj\Debug\13. Factorial.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\13. Factorial\obj\Debug\_13.Factorial.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\13. Factorial\obj\Debug\_13.Factorial.pdb

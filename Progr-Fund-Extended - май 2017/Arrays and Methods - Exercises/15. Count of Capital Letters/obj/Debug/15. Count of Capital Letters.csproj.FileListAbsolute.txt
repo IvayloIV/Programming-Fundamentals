@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\15. Count of Capital Letters\bin\Debug\_15.Count_of_Capital_Letters.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\15. Count of Capital Letters\bin\Debug\_15.Count_of_Capital_Letters.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\15. Count of Capital Letters\bin\Debug\_15.Count_of_Capital_Letters.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\15. Count of Capital Letters\obj\Debug\15. Count of Capital Letters.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\15. Count of Capital Letters\obj\Debug\_15.Count_of_Capital_Letters.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\15. Count of Capital Letters\obj\Debug\_15.Count_of_Capital_Letters.pdb

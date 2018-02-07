@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\02.Append-Lists\bin\Debug\02.Append-Lists.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\02.Append-Lists\bin\Debug\02.Append-Lists.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\02.Append-Lists\bin\Debug\02.Append-Lists.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\02.Append-Lists\obj\Debug\02.Append-Lists.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\02.Append-Lists\obj\Debug\02.Append-Lists.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\02.Append-Lists\obj\Debug\02.Append-Lists.pdb

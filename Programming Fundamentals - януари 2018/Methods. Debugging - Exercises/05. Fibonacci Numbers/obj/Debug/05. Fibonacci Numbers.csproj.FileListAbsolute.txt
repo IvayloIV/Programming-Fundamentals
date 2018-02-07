@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\05. Fibonacci Numbers\obj\Debug\05. Fibonacci Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\05. Fibonacci Numbers\obj\Debug\_05.Fibonacci_Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\05. Fibonacci Numbers\obj\Debug\_05.Fibonacci_Numbers.pdb

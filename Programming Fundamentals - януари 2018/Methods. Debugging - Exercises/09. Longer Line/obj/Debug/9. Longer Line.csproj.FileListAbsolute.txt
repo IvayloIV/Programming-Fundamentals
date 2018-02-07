@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\9. Longer Line\bin\Debug\_9.Longer_Line.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\9. Longer Line\bin\Debug\_9.Longer_Line.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\9. Longer Line\bin\Debug\_9.Longer_Line.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\9. Longer Line\obj\Debug\9. Longer Line.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\9. Longer Line\obj\Debug\9. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\9. Longer Line\obj\Debug\_9.Longer_Line.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\9. Longer Line\obj\Debug\_9.Longer_Line.pdb

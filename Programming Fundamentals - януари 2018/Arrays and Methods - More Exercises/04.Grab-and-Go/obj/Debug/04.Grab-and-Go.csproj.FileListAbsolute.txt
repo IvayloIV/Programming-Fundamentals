@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\04.Grab-and-Go\bin\Debug\04.Grab-and-Go.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\04.Grab-and-Go\bin\Debug\04.Grab-and-Go.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\04.Grab-and-Go\bin\Debug\04.Grab-and-Go.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\04.Grab-and-Go\obj\Debug\04.Grab-and-Go.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\04.Grab-and-Go\obj\Debug\04.Grab-and-Go.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\04.Grab-and-Go\obj\Debug\04.Grab-and-Go.pdb

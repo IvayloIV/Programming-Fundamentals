@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\02. Rotate and Sum\obj\Debug\02. Rotate and Sum.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.pdb

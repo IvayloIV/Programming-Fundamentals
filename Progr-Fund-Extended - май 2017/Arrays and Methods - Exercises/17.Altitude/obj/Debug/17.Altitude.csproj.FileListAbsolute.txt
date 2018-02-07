@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\17.Altitude\bin\Debug\17.Altitude.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\17.Altitude\bin\Debug\17.Altitude.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\17.Altitude\bin\Debug\17.Altitude.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\17.Altitude\obj\Debug\17.Altitude.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\17.Altitude\obj\Debug\17.Altitude.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\17.Altitude\obj\Debug\17.Altitude.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\17.Altitude\obj\Debug\17.Altitude.pdb

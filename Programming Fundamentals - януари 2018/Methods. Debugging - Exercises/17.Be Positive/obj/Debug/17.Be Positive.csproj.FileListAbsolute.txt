@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\17.Be Positive\bin\Debug\17.Be Positive.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\17.Be Positive\bin\Debug\17.Be Positive.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\17.Be Positive\bin\Debug\17.Be Positive.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\17.Be Positive\obj\Debug\17.Be Positive.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\17.Be Positive\obj\Debug\17.Be Positive.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\17.Be Positive\obj\Debug\17.Be Positive.pdb

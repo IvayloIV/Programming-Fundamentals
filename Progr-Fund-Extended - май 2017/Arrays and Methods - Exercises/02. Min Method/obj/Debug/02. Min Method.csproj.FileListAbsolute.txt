@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\02. Min Method\bin\Debug\_02.Min_Method.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\02. Min Method\bin\Debug\_02.Min_Method.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\02. Min Method\bin\Debug\_02.Min_Method.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\02. Min Method\obj\Debug\02. Min Method.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\02. Min Method\obj\Debug\_02.Min_Method.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\02. Min Method\obj\Debug\_02.Min_Method.pdb

@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\11. Count of Given Element\bin\Debug\_11.Count_of_Given_Element.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\11. Count of Given Element\bin\Debug\_11.Count_of_Given_Element.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\11. Count of Given Element\bin\Debug\_11.Count_of_Given_Element.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\11. Count of Given Element\obj\Debug\11. Count of Given Element.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\11. Count of Given Element\obj\Debug\11. Count of Given Element.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\11. Count of Given Element\obj\Debug\_11.Count_of_Given_Element.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\11. Count of Given Element\obj\Debug\_11.Count_of_Given_Element.pdb

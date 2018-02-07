@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\16. Array Symmetry\obj\Debug\16. Array Symmetry.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\16. Array Symmetry\obj\Debug\_16.Array_Symmetry.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\16. Array Symmetry\obj\Debug\_16.Array_Symmetry.pdb

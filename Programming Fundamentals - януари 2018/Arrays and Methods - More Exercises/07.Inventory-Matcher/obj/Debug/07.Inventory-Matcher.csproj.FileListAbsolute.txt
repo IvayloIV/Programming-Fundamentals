@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\07.Inventory-Matcher\bin\Debug\07.Inventory-Matcher.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\07.Inventory-Matcher\bin\Debug\07.Inventory-Matcher.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\07.Inventory-Matcher\bin\Debug\07.Inventory-Matcher.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\07.Inventory-Matcher\obj\Debug\07.Inventory-Matcher.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\07.Inventory-Matcher\obj\Debug\07.Inventory-Matcher.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\07.Inventory-Matcher\obj\Debug\07.Inventory-Matcher.pdb

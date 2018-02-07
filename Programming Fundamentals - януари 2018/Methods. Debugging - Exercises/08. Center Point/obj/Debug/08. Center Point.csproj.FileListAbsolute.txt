@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\08. Center Point\bin\Debug\_08.Center_Point.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\08. Center Point\bin\Debug\_08.Center_Point.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\08. Center Point\bin\Debug\_08.Center_Point.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\08. Center Point\obj\Debug\08. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\08. Center Point\obj\Debug\_08.Center_Point.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\08. Center Point\obj\Debug\_08.Center_Point.pdb

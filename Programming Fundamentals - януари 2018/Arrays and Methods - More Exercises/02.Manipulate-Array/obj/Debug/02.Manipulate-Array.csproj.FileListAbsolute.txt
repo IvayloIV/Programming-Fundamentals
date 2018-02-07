@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\02.Manipulate-Array\bin\Debug\02.Manipulate-Array.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\02.Manipulate-Array\bin\Debug\02.Manipulate-Array.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\02.Manipulate-Array\bin\Debug\02.Manipulate-Array.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\02.Manipulate-Array\obj\Debug\02.Manipulate-Array.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\02.Manipulate-Array\obj\Debug\02.Manipulate-Array.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\02.Manipulate-Array\obj\Debug\02.Manipulate-Array.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\04.Sieve-of-Eratosthenes\bin\Debug\04.Sieve-of-Eratosthenes.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\04.Sieve-of-Eratosthenes\bin\Debug\04.Sieve-of-Eratosthenes.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\04.Sieve-of-Eratosthenes\bin\Debug\04.Sieve-of-Eratosthenes.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\04.Sieve-of-Eratosthenes\obj\Debug\04.Sieve-of-Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\04.Sieve-of-Eratosthenes\obj\Debug\04.Sieve-of-Eratosthenes.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\04.Sieve-of-Eratosthenes\obj\Debug\04.Sieve-of-Eratosthenes.pdb

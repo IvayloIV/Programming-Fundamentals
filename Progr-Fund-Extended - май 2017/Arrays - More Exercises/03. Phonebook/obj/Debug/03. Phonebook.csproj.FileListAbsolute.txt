@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\03. Phonebook\bin\Debug\_03.Phonebook.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\03. Phonebook\bin\Debug\_03.Phonebook.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\03. Phonebook\bin\Debug\_03.Phonebook.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\03. Phonebook\obj\Debug\03. Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\03. Phonebook\obj\Debug\_03.Phonebook.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\03. Phonebook\obj\Debug\_03.Phonebook.pdb

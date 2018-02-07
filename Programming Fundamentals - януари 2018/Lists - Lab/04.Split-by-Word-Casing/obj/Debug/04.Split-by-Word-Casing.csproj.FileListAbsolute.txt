@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\04.Split-by-Word-Casing\bin\Debug\04.Split-by-Word-Casing.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\04.Split-by-Word-Casing\bin\Debug\04.Split-by-Word-Casing.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\04.Split-by-Word-Casing\bin\Debug\04.Split-by-Word-Casing.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\04.Split-by-Word-Casing\obj\Debug\04.Split-by-Word-Casing.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\04.Split-by-Word-Casing\obj\Debug\04.Split-by-Word-Casing.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\04.Split-by-Word-Casing\obj\Debug\04.Split-by-Word-Casing.pdb

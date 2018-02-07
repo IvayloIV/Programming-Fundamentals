@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\05. Count of Odd Numbers in Array\bin\Debug\_05.Count_of_Odd_Numbers_in_Array.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\05. Count of Odd Numbers in Array\obj\Debug\05. Count of Odd Numbers in Array.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\05. Count of Odd Numbers in Array\obj\Debug\_05.Count_of_Odd_Numbers_in_Array.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\05. Count of Odd Numbers in Array\obj\Debug\_05.Count_of_Odd_Numbers_in_Array.pdb

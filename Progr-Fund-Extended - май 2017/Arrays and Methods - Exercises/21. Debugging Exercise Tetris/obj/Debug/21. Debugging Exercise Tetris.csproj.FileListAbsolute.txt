@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\21. Debugging Exercise Tetris\bin\Debug\_21.Debugging_Exercise_Tetris.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\21. Debugging Exercise Tetris\bin\Debug\_21.Debugging_Exercise_Tetris.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\21. Debugging Exercise Tetris\bin\Debug\_21.Debugging_Exercise_Tetris.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\21. Debugging Exercise Tetris\obj\Debug\21. Debugging Exercise Tetris.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\21. Debugging Exercise Tetris\obj\Debug\21. Debugging Exercise Tetris.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\21. Debugging Exercise Tetris\obj\Debug\_21.Debugging_Exercise_Tetris.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\21. Debugging Exercise Tetris\obj\Debug\_21.Debugging_Exercise_Tetris.pdb

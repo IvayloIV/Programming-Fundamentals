@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\04.Triple-Sum\bin\Debug\04.Triple-Sum.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\04.Triple-Sum\bin\Debug\04.Triple-Sum.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\04.Triple-Sum\bin\Debug\04.Triple-Sum.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\04.Triple-Sum\obj\Debug\04.Triple-Sum.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\04.Triple-Sum\obj\Debug\04.Triple-Sum.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\04.Triple-Sum\obj\Debug\04.Triple-Sum.pdb

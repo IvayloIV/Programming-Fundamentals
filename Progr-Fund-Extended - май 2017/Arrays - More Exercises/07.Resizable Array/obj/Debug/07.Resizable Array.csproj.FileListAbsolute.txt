@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\07.Resizable Array\bin\Debug\07.Resizable Array.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\07.Resizable Array\bin\Debug\07.Resizable Array.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\07.Resizable Array\bin\Debug\07.Resizable Array.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\07.Resizable Array\obj\Debug\07.Resizable Array.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\07.Resizable Array\obj\Debug\07.Resizable Array.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\07.Resizable Array\obj\Debug\07.Resizable Array.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\07.Resizable Array\obj\Debug\07.Resizable Array.pdb

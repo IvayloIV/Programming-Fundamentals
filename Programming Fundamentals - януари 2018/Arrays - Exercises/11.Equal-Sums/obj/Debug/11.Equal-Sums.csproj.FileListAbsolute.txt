@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\11.Equal-Sums\bin\Debug\11.Equal-Sums.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\11.Equal-Sums\bin\Debug\11.Equal-Sums.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\11.Equal-Sums\bin\Debug\11.Equal-Sums.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\11.Equal-Sums\obj\Debug\11.Equal-Sums.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\11.Equal-Sums\obj\Debug\11.Equal-Sums.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\11.Equal-Sums\obj\Debug\11.Equal-Sums.pdb

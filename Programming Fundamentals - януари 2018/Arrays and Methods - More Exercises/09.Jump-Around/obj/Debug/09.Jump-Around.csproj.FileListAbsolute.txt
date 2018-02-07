@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\09.Jump-Around\bin\Debug\09.Jump-Around.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\09.Jump-Around\bin\Debug\09.Jump-Around.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\09.Jump-Around\bin\Debug\09.Jump-Around.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\09.Jump-Around\obj\Debug\09.Jump-Around.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\09.Jump-Around\obj\Debug\09.Jump-Around.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\09.Jump-Around\obj\Debug\09.Jump-Around.pdb

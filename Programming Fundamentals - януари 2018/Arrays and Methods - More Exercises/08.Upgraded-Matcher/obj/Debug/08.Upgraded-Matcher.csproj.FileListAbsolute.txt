@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\08.Upgraded-Matcher\bin\Debug\08.Upgraded-Matcher.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\08.Upgraded-Matcher\bin\Debug\08.Upgraded-Matcher.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\08.Upgraded-Matcher\bin\Debug\08.Upgraded-Matcher.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\08.Upgraded-Matcher\obj\Debug\08.Upgraded-Matcher.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\08.Upgraded-Matcher\obj\Debug\08.Upgraded-Matcher.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\08.Upgraded-Matcher\obj\Debug\08.Upgraded-Matcher.pdb

@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\14. Factorial Trailing\bin\Debug\_14.Factorial_Trailing.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\14. Factorial Trailing\bin\Debug\_14.Factorial_Trailing.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\14. Factorial Trailing\bin\Debug\_14.Factorial_Trailing.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\14. Factorial Trailing\obj\Debug\14. Factorial Trailing.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\14. Factorial Trailing\obj\Debug\_14.Factorial_Trailing.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\14. Factorial Trailing\obj\Debug\_14.Factorial_Trailing.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Methods. Debugging - Exercises\14. Factorial Trailing\obj\Debug\14. Factorial Trailing.csprojResolveAssemblyReference.cache

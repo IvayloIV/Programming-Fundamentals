@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\22. Debugging Exercise Mining\bin\Debug\_22.Debugging_Exercise_Mining.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\22. Debugging Exercise Mining\bin\Debug\_22.Debugging_Exercise_Mining.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\22. Debugging Exercise Mining\bin\Debug\_22.Debugging_Exercise_Mining.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\22. Debugging Exercise Mining\obj\Debug\22. Debugging Exercise Mining.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\22. Debugging Exercise Mining\obj\Debug\_22.Debugging_Exercise_Mining.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\22. Debugging Exercise Mining\obj\Debug\_22.Debugging_Exercise_Mining.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\22. Debugging Exercise Mining\obj\Debug\22. Debugging Exercise Mining.csprojResolveAssemblyReference.cache

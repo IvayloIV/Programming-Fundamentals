@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\03.Sum-Adjacent-Equal-Numbers\bin\Debug\03.Sum-Adjacent-Equal-Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\03.Sum-Adjacent-Equal-Numbers\bin\Debug\03.Sum-Adjacent-Equal-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\03.Sum-Adjacent-Equal-Numbers\bin\Debug\03.Sum-Adjacent-Equal-Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\03.Sum-Adjacent-Equal-Numbers\obj\Debug\03.Sum-Adjacent-Equal-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\03.Sum-Adjacent-Equal-Numbers\obj\Debug\03.Sum-Adjacent-Equal-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\03.Sum-Adjacent-Equal-Numbers\obj\Debug\03.Sum-Adjacent-Equal-Numbers.pdb

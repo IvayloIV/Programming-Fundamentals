@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\05.Pizza-Ingredients\bin\Debug\05.Pizza-Ingredients.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\05.Pizza-Ingredients\bin\Debug\05.Pizza-Ingredients.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\05.Pizza-Ingredients\bin\Debug\05.Pizza-Ingredients.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\05.Pizza-Ingredients\obj\Debug\05.Pizza-Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\05.Pizza-Ingredients\obj\Debug\05.Pizza-Ingredients.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays and Methods - More Exercises\05.Pizza-Ingredients\obj\Debug\05.Pizza-Ingredients.pdb

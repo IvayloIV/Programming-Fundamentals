@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation IV - Taking a Sample Exam\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation IV - Taking a Sample Exam\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation IV - Taking a Sample Exam\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation IV - Taking a Sample Exam\02. Array Manipulator\obj\Debug\02. Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation IV - Taking a Sample Exam\02. Array Manipulator\obj\Debug\02. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation IV - Taking a Sample Exam\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr. Fund. Extended - Exams\Exam Preparation IV - Taking a Sample Exam\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.pdb

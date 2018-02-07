@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\02.Reverse-Array-of-Integers\bin\Debug\02.Reverse-Array-of-Integers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\02.Reverse-Array-of-Integers\bin\Debug\02.Reverse-Array-of-Integers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\02.Reverse-Array-of-Integers\bin\Debug\02.Reverse-Array-of-Integers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\02.Reverse-Array-of-Integers\obj\Debug\02.Reverse-Array-of-Integers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\02.Reverse-Array-of-Integers\obj\Debug\02.Reverse-Array-of-Integers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\02.Reverse-Array-of-Integers\obj\Debug\02.Reverse-Array-of-Integers.pdb

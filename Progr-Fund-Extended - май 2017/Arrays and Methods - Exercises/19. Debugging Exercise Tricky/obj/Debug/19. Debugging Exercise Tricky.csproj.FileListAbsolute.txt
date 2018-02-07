@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\19. Debugging Exercise Tricky\bin\Debug\_19.Debugging_Exercise_Tricky.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\19. Debugging Exercise Tricky\bin\Debug\_19.Debugging_Exercise_Tricky.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\19. Debugging Exercise Tricky\bin\Debug\_19.Debugging_Exercise_Tricky.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\19. Debugging Exercise Tricky\obj\Debug\19. Debugging Exercise Tricky.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\19. Debugging Exercise Tricky\obj\Debug\_19.Debugging_Exercise_Tricky.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\19. Debugging Exercise Tricky\obj\Debug\_19.Debugging_Exercise_Tricky.pdb

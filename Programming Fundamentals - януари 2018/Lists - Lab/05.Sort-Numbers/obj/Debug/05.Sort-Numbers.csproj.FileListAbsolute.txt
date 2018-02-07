@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\05.Sort-Numbers\bin\Debug\05.Sort-Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\05.Sort-Numbers\bin\Debug\05.Sort-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\05.Sort-Numbers\bin\Debug\05.Sort-Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\05.Sort-Numbers\obj\Debug\05.Sort-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\05.Sort-Numbers\obj\Debug\05.Sort-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Lab\05.Sort-Numbers\obj\Debug\05.Sort-Numbers.pdb

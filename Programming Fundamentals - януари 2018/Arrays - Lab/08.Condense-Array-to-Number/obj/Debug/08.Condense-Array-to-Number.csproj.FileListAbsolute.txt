@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\08.Condense-Array-to-Number\bin\Debug\08.Condense-Array-to-Number.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\08.Condense-Array-to-Number\bin\Debug\08.Condense-Array-to-Number.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\08.Condense-Array-to-Number\bin\Debug\08.Condense-Array-to-Number.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\08.Condense-Array-to-Number\obj\Debug\08.Condense-Array-to-Number.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\08.Condense-Array-to-Number\obj\Debug\08.Condense-Array-to-Number.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\08.Condense-Array-to-Number\obj\Debug\08.Condense-Array-to-Number.pdb

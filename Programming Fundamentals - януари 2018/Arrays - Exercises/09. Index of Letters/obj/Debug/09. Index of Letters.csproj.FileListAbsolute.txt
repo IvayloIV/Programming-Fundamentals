@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\09. Index of Letters\obj\Debug\09. Index of Letters.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\09. Index of Letters\obj\Debug\_09.Index_of_Letters.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\09. Index of Letters\obj\Debug\_09.Index_of_Letters.pdb

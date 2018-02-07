@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\06. Odd Numbers at Odd Positions\bin\Debug\_06.Odd_Numbers_at_Odd_Positions.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\06. Odd Numbers at Odd Positions\bin\Debug\_06.Odd_Numbers_at_Odd_Positions.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\06. Odd Numbers at Odd Positions\bin\Debug\_06.Odd_Numbers_at_Odd_Positions.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\06. Odd Numbers at Odd Positions\obj\Debug\06. Odd Numbers at Odd Positions.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\06. Odd Numbers at Odd Positions\obj\Debug\_06.Odd_Numbers_at_Odd_Positions.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\06. Odd Numbers at Odd Positions\obj\Debug\_06.Odd_Numbers_at_Odd_Positions.pdb

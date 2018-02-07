@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\05.Rounding-Numbers\bin\Debug\05.Rounding-Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\05.Rounding-Numbers\bin\Debug\05.Rounding-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\05.Rounding-Numbers\bin\Debug\05.Rounding-Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\05.Rounding-Numbers\obj\Debug\05.Rounding-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\05.Rounding-Numbers\obj\Debug\05.Rounding-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\05.Rounding-Numbers\obj\Debug\05.Rounding-Numbers.pdb

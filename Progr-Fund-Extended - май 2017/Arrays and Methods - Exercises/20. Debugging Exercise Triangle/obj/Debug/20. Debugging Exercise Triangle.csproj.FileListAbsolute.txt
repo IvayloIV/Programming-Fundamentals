@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\20. Debugging Exercise Triangle\bin\Debug\_20.Debugging_Exercise_Triangle.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\20. Debugging Exercise Triangle\bin\Debug\_20.Debugging_Exercise_Triangle.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\20. Debugging Exercise Triangle\bin\Debug\_20.Debugging_Exercise_Triangle.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\20. Debugging Exercise Triangle\obj\Debug\20. Debugging Exercise Triangle.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\20. Debugging Exercise Triangle\obj\Debug\_20.Debugging_Exercise_Triangle.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\20. Debugging Exercise Triangle\obj\Debug\_20.Debugging_Exercise_Triangle.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\20. Debugging Exercise Triangle\obj\Debug\20. Debugging Exercise Triangle.csprojResolveAssemblyReference.cache

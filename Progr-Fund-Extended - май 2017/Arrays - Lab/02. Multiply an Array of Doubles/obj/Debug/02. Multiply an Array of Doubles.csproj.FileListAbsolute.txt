@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\02. Multiply an Array of Doubles\bin\Debug\_02.Multiply_an_Array_of_Doubles.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\02. Multiply an Array of Doubles\obj\Debug\02. Multiply an Array of Doubles.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\02. Multiply an Array of Doubles\obj\Debug\_02.Multiply_an_Array_of_Doubles.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - Lab\02. Multiply an Array of Doubles\obj\Debug\_02.Multiply_an_Array_of_Doubles.pdb

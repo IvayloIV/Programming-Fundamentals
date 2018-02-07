@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\13. Increasing Sequence\bin\Debug\_13.Increasing_Sequence.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\13. Increasing Sequence\bin\Debug\_13.Increasing_Sequence.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\13. Increasing Sequence\bin\Debug\_13.Increasing_Sequence.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\13. Increasing Sequence\obj\Debug\13. Increasing Sequence.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\13. Increasing Sequence\obj\Debug\_13.Increasing_Sequence.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays and Methods - Exercises\13. Increasing Sequence\obj\Debug\_13.Increasing_Sequence.pdb

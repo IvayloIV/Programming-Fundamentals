@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\05. Char Rotation\bin\Debug\_05.Char_Rotation.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\05. Char Rotation\bin\Debug\_05.Char_Rotation.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\05. Char Rotation\bin\Debug\_05.Char_Rotation.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\05. Char Rotation\obj\Debug\05. Char Rotation.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\05. Char Rotation\obj\Debug\05. Char Rotation.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\05. Char Rotation\obj\Debug\_05.Char_Rotation.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\05. Char Rotation\obj\Debug\_05.Char_Rotation.pdb

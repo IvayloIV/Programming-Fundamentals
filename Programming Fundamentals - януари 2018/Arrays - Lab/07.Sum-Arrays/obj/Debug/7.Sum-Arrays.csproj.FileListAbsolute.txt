@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\7.Sum-Arrays\bin\Debug\7.Sum-Arrays.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\7.Sum-Arrays\bin\Debug\7.Sum-Arrays.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\7.Sum-Arrays\bin\Debug\7.Sum-Arrays.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\7.Sum-Arrays\obj\Debug\7.Sum-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\7.Sum-Arrays\obj\Debug\7.Sum-Arrays.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Lab\7.Sum-Arrays\obj\Debug\7.Sum-Arrays.pdb

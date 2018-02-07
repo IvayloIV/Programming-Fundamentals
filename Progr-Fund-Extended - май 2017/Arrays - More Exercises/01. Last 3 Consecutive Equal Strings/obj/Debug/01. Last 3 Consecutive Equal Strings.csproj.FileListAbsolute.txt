@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\01. Last 3 Consecutive Equal Strings\bin\Debug\_01.Last_3_Consecutive_Equal_Strings.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\01. Last 3 Consecutive Equal Strings\bin\Debug\_01.Last_3_Consecutive_Equal_Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\01. Last 3 Consecutive Equal Strings\bin\Debug\_01.Last_3_Consecutive_Equal_Strings.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\01. Last 3 Consecutive Equal Strings\obj\Debug\01. Last 3 Consecutive Equal Strings.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\01. Last 3 Consecutive Equal Strings\obj\Debug\01. Last 3 Consecutive Equal Strings.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\01. Last 3 Consecutive Equal Strings\obj\Debug\_01.Last_3_Consecutive_Equal_Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Arrays - More Exercises\01. Last 3 Consecutive Equal Strings\obj\Debug\_01.Last_3_Consecutive_Equal_Strings.pdb

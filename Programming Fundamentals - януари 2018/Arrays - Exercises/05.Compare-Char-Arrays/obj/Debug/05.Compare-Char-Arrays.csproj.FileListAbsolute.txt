@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\05.Compare-Char-Arrays\bin\Debug\05.Compare-Char-Arrays.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\05.Compare-Char-Arrays\bin\Debug\05.Compare-Char-Arrays.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\05.Compare-Char-Arrays\bin\Debug\05.Compare-Char-Arrays.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\05.Compare-Char-Arrays\obj\Debug\05.Compare-Char-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\05.Compare-Char-Arrays\obj\Debug\05.Compare-Char-Arrays.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Arrays - Exercises\05.Compare-Char-Arrays\obj\Debug\05.Compare-Char-Arrays.pdb
