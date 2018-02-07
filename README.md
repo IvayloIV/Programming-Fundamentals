@@ -11,6 +11,11 @@
 7.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Data%20Types%20-%20Exercises" > <b>Data Types and Variables - Exercises</b> </a> 
 8.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Data%20Types%20and%20Variables%20-%20More%20Exercises" > <b>Data Types and Variables - More Exercises</b> </a> 
 9.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Methods.%20Debugging%20and%20Troubleshooting%20Code%20-%20Lab" > <b>Methods. Debugging and Troubleshooting Code - Lab</b> </a> 
+10.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Methods.%20Debugging%20-%20Exercises" > <b>Methods. Debugging and Troubleshooting Code - Exercises</b> </a> 
+11.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Arrays%20-%20Lab" > <b>Arrays - Lab</b> </a> 
+12.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Arrays%20-%20Exercises" > <b>Arrays - Exercises</b> </a> 
+13.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Arrays%20and%20Methods%20-%20More%20Exercises" > <b>Arrays and Methods - More Exercises</b> </a>
+14.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Lists%20-%20Lab" > <b>Lists - Lab</b> </a>
 
 ## <b>Programming Fundamentals - Extended - ноември 2017</b>
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Extended%20-%20%D0%BD%D0%BE%D0%B5%D0%BC%D0%B2%D1%80%D0%B8%202017/Data%20Types%2C%20Variables%20and%20Methods%20%20Lab" > <b>Data Types, Variables and Methods - Lab</b> </a> 
@@ -28,6 +33,9 @@
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Data%20Types%20Numeral%20Types%20and%20Type%20Conversion%20-%20Lab" > <b>Data Types Numeral Types and Type Conversion - Lab</b> </a> 
 2.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Data%20Types%20-%20Exercises" > <b>Data Types - Exercises</b> </a> 
 3.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Methods%20and%20Debugging%20-%20Lab" > <b>Methods and Debugging - Lab</b> </a> 
+4.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Arrays%20-%20Lab" > <b>Arrays - Lab</b> </a> 
+5.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Arrays%20and%20Methods%20-%20Exercises" > <b>Arrays and Methods - Exercises</b> </a> 
+6.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Arrays%20-%20More%20Exercises" > <b>Arrays - More Exercises</b> </a> 
 
 ## <b>Programming Fundamentals - Exams</b>
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20I" > <b>Exam Preparation I</b> </a> 
@@ -55,3 +63,4 @@
 6.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Exam%20Preparation%20I%20-%20Taking%20a%20Sample%20Exam" > <b>Exam Preparation I - Taking a Sample Exam</b> </a>
 7.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Exam%20Preparation%20II%20-%20Taking%20a%20Sample%20Exam" > <b>Exam Preparation II - Taking a Sample Exam</b> </a>
 8.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Exam%20Preparation%20III%20-%20Taking%20a%20Sample%20Exam" > <b>Exam Preparation III - Taking a Sample Exam</b> </a>
+9.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Exam%20Preparation%20IV%20-%20Taking%20a%20Sample%20Exam" > <b>Exam Preparation IV - Taking a Sample Exam</b> </a>
