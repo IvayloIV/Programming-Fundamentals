@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\05.Book-Library\bin\Debug\05.Book-Library.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\05.Book-Library\bin\Debug\05.Book-Library.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\05.Book-Library\bin\Debug\05.Book-Library.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\05.Book-Library\obj\Debug\05.Book-Library.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\05.Book-Library\obj\Debug\05.Book-Library.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\05.Book-Library\obj\Debug\05.Book-Library.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\05.Book-Library\obj\Debug\05.Book-Library.pdb

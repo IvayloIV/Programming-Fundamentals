@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\06.Book-Library-Modification\bin\Debug\06.Book-Library-Modification.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\06.Book-Library-Modification\bin\Debug\06.Book-Library-Modification.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\06.Book-Library-Modification\bin\Debug\06.Book-Library-Modification.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\06.Book-Library-Modification\obj\Debug\06.Book-Library-Modification.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\06.Book-Library-Modification\obj\Debug\06.Book-Library-Modification.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\06.Book-Library-Modification\obj\Debug\06.Book-Library-Modification.pdb

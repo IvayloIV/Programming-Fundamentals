@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\03.Search-for-a-Number\bin\Debug\03.Search-for-a-Number.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\03.Search-for-a-Number\bin\Debug\03.Search-for-a-Number.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\03.Search-for-a-Number\bin\Debug\03.Search-for-a-Number.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\03.Search-for-a-Number\obj\Debug\03.Search-for-a-Number.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\03.Search-for-a-Number\obj\Debug\03.Search-for-a-Number.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\03.Search-for-a-Number\obj\Debug\03.Search-for-a-Number.pdb

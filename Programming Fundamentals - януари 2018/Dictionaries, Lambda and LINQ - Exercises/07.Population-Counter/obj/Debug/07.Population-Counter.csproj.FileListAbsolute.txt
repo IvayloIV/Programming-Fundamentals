@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\07.Population-Counter\bin\Debug\07.Population-Counter.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\07.Population-Counter\bin\Debug\07.Population-Counter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\07.Population-Counter\bin\Debug\07.Population-Counter.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\07.Population-Counter\obj\Debug\07.Population-Counter.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\07.Population-Counter\obj\Debug\07.Population-Counter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\07.Population-Counter\obj\Debug\07.Population-Counter.pdb

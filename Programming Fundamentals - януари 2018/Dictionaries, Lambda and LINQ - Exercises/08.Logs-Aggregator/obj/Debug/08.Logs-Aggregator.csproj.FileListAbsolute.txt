@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\08.Logs-Aggregator\bin\Debug\08.Logs-Aggregator.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\08.Logs-Aggregator\bin\Debug\08.Logs-Aggregator.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\08.Logs-Aggregator\bin\Debug\08.Logs-Aggregator.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\08.Logs-Aggregator\obj\Debug\08.Logs-Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\08.Logs-Aggregator\obj\Debug\08.Logs-Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\08.Logs-Aggregator\obj\Debug\08.Logs-Aggregator.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\08.Logs-Aggregator\obj\Debug\08.Logs-Aggregator.pdb

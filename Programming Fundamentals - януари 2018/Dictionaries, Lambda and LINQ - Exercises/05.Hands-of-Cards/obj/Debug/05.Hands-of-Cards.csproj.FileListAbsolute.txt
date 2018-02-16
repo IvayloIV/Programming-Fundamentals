@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\05.Hands-of-Cards\bin\Debug\05.Hands-of-Cards.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\05.Hands-of-Cards\bin\Debug\05.Hands-of-Cards.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\05.Hands-of-Cards\bin\Debug\05.Hands-of-Cards.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\05.Hands-of-Cards\obj\Debug\05.Hands-of-Cards.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\05.Hands-of-Cards\obj\Debug\05.Hands-of-Cards.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\05.Hands-of-Cards\obj\Debug\05.Hands-of-Cards.pdb

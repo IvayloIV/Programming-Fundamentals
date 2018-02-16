@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\02.Integer-Insertion\bin\Debug\02.Integer-Insertion.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\02.Integer-Insertion\bin\Debug\02.Integer-Insertion.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\02.Integer-Insertion\bin\Debug\02.Integer-Insertion.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\02.Integer-Insertion\obj\Debug\02.Integer-Insertion.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\02.Integer-Insertion\obj\Debug\02.Integer-Insertion.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\02.Integer-Insertion\obj\Debug\02.Integer-Insertion.pdb

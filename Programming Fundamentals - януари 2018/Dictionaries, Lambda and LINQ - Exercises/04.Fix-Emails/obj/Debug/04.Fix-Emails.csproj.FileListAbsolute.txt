@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\04.Fix-Emails\bin\Debug\04.Fix-Emails.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\04.Fix-Emails\bin\Debug\04.Fix-Emails.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\04.Fix-Emails\bin\Debug\04.Fix-Emails.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\04.Fix-Emails\obj\Debug\04.Fix-Emails.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\04.Fix-Emails\obj\Debug\04.Fix-Emails.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Exercises\04.Fix-Emails\obj\Debug\04.Fix-Emails.pdb

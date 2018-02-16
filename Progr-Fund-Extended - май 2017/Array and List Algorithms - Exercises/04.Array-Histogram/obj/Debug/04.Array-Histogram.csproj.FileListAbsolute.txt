@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\04.Array-Histogram\bin\Debug\04.Array-Histogram.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\04.Array-Histogram\bin\Debug\04.Array-Histogram.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\04.Array-Histogram\bin\Debug\04.Array-Histogram.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\04.Array-Histogram\obj\Debug\04.Array-Histogram.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\04.Array-Histogram\obj\Debug\04.Array-Histogram.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\04.Array-Histogram\obj\Debug\04.Array-Histogram.pdb

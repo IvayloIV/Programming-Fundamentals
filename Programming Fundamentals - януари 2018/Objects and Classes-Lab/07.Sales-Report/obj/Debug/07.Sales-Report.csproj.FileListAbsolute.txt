@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\07.Sales-Report\bin\Debug\07.Sales-Report.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\07.Sales-Report\bin\Debug\07.Sales-Report.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\07.Sales-Report\bin\Debug\07.Sales-Report.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\07.Sales-Report\obj\Debug\07.Sales-Report.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\07.Sales-Report\obj\Debug\07.Sales-Report.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\07.Sales-Report\obj\Debug\07.Sales-Report.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\07.Sales-Report\obj\Debug\07.Sales-Report.pdb

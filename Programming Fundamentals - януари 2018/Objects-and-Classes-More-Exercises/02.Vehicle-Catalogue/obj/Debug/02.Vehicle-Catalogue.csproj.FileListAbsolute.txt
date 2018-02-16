@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\02.Vehicle-Catalogue\bin\Debug\02.Vehicle-Catalogue.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\02.Vehicle-Catalogue\bin\Debug\02.Vehicle-Catalogue.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\02.Vehicle-Catalogue\bin\Debug\02.Vehicle-Catalogue.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\02.Vehicle-Catalogue\obj\Debug\02.Vehicle-Catalogue.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\02.Vehicle-Catalogue\obj\Debug\02.Vehicle-Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\02.Vehicle-Catalogue\obj\Debug\02.Vehicle-Catalogue.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\02.Vehicle-Catalogue\obj\Debug\02.Vehicle-Catalogue.pdb

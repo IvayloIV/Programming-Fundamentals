@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\08.Mentor-Group\bin\Debug\08.Mentor-Group.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\08.Mentor-Group\bin\Debug\08.Mentor-Group.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\08.Mentor-Group\bin\Debug\08.Mentor-Group.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\08.Mentor-Group\obj\Debug\08.Mentor-Group.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\08.Mentor-Group\obj\Debug\08.Mentor-Group.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\08.Mentor-Group\obj\Debug\08.Mentor-Group.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\08.Mentor-Group\obj\Debug\08.Mentor-Group.pdb

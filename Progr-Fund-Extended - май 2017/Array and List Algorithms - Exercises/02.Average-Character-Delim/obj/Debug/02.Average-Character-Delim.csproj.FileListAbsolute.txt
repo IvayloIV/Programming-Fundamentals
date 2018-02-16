@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\02.Average-Character-Delim\bin\Debug\02.Average-Character-Delim.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\02.Average-Character-Delim\bin\Debug\02.Average-Character-Delim.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\02.Average-Character-Delim\bin\Debug\02.Average-Character-Delim.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\02.Average-Character-Delim\obj\Debug\02.Average-Character-Delim.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\02.Average-Character-Delim\obj\Debug\02.Average-Character-Delim.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\02.Average-Character-Delim\obj\Debug\02.Average-Character-Delim.pdb

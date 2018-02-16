@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\01.Array-Contains-Element\bin\Debug\01.Array-Contains-Element.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\01.Array-Contains-Element\bin\Debug\01.Array-Contains-Element.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\01.Array-Contains-Element\bin\Debug\01.Array-Contains-Element.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\01.Array-Contains-Element\obj\Debug\01.Array-Contains-Element.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\01.Array-Contains-Element\obj\Debug\01.Array-Contains-Element.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\01.Array-Contains-Element\obj\Debug\01.Array-Contains-Element.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\01.Array-Contains-Element\obj\Debug\01.Array-Contains-Element.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\03.Equal-Sum-After-Extraction\bin\Debug\03.Equal-Sum-After-Extraction.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\03.Equal-Sum-After-Extraction\bin\Debug\03.Equal-Sum-After-Extraction.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\03.Equal-Sum-After-Extraction\bin\Debug\03.Equal-Sum-After-Extraction.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\03.Equal-Sum-After-Extraction\obj\Debug\03.Equal-Sum-After-Extraction.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\03.Equal-Sum-After-Extraction\obj\Debug\03.Equal-Sum-After-Extraction.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\03.Equal-Sum-After-Extraction\obj\Debug\03.Equal-Sum-After-Extraction.pdb

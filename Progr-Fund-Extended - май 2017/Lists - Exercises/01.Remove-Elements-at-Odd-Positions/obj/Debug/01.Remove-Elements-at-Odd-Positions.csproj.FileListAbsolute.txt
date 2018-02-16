@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\01.Remove-Elements-at-Odd-Positions\bin\Debug\01.Remove-Elements-at-Odd-Positions.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\01.Remove-Elements-at-Odd-Positions\bin\Debug\01.Remove-Elements-at-Odd-Positions.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\01.Remove-Elements-at-Odd-Positions\bin\Debug\01.Remove-Elements-at-Odd-Positions.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\01.Remove-Elements-at-Odd-Positions\obj\Debug\01.Remove-Elements-at-Odd-Positions.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\01.Remove-Elements-at-Odd-Positions\obj\Debug\01.Remove-Elements-at-Odd-Positions.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\01.Remove-Elements-at-Odd-Positions\obj\Debug\01.Remove-Elements-at-Odd-Positions.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\01.Remove-Elements-at-Odd-Positions\obj\Debug\01.Remove-Elements-at-Odd-Positions.pdb

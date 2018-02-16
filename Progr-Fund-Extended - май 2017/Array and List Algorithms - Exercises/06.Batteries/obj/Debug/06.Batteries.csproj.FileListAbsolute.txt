@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\06.Batteries\bin\Debug\06.Batteries.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\06.Batteries\bin\Debug\06.Batteries.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\06.Batteries\bin\Debug\06.Batteries.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\06.Batteries\obj\Debug\06.Batteries.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\06.Batteries\obj\Debug\06.Batteries.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\06.Batteries\obj\Debug\06.Batteries.pdb

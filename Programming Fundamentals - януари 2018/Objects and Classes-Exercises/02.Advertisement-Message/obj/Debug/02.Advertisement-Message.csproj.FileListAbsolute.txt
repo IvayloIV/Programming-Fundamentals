@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\02.Advertisement-Message\bin\Debug\02.Advertisement-Message.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\02.Advertisement-Message\bin\Debug\02.Advertisement-Message.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\02.Advertisement-Message\bin\Debug\02.Advertisement-Message.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\02.Advertisement-Message\obj\Debug\02.Advertisement-Message.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\02.Advertisement-Message\obj\Debug\02.Advertisement-Message.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\02.Advertisement-Message\obj\Debug\02.Advertisement-Message.pdb

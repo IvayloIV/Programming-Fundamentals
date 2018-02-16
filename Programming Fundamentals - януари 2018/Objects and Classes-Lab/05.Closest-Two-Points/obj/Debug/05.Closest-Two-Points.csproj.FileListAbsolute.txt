@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\05.Closest-Two-Points\bin\Debug\05.Closest-Two-Points.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\05.Closest-Two-Points\bin\Debug\05.Closest-Two-Points.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\05.Closest-Two-Points\bin\Debug\05.Closest-Two-Points.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\05.Closest-Two-Points\obj\Debug\05.Closest-Two-Points.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\05.Closest-Two-Points\obj\Debug\05.Closest-Two-Points.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\05.Closest-Two-Points\obj\Debug\05.Closest-Two-Points.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\05.Closest-Two-Points\obj\Debug\05.Closest-Two-Points.pdb

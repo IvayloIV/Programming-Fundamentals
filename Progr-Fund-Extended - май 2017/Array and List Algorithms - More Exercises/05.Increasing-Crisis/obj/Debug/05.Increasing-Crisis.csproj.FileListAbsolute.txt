@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\05.Increasing-Crisis\bin\Debug\05.Increasing-Crisis.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\05.Increasing-Crisis\bin\Debug\05.Increasing-Crisis.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\05.Increasing-Crisis\bin\Debug\05.Increasing-Crisis.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\05.Increasing-Crisis\obj\Debug\05.Increasing-Crisis.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\05.Increasing-Crisis\obj\Debug\05.Increasing-Crisis.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\05.Increasing-Crisis\obj\Debug\05.Increasing-Crisis.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\05.Increasing-Crisis\obj\Debug\05.Increasing-Crisis.pdb

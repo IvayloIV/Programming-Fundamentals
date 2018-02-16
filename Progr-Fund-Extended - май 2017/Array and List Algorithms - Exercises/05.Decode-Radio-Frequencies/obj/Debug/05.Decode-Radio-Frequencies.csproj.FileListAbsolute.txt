@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\05.Decode-Radio-Frequencies\bin\Debug\05.Decode-Radio-Frequencies.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\05.Decode-Radio-Frequencies\bin\Debug\05.Decode-Radio-Frequencies.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\05.Decode-Radio-Frequencies\bin\Debug\05.Decode-Radio-Frequencies.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\05.Decode-Radio-Frequencies\obj\Debug\05.Decode-Radio-Frequencies.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\05.Decode-Radio-Frequencies\obj\Debug\05.Decode-Radio-Frequencies.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\05.Decode-Radio-Frequencies\obj\Debug\05.Decode-Radio-Frequencies.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Exercises\05.Decode-Radio-Frequencies\obj\Debug\05.Decode-Radio-Frequencies.pdb

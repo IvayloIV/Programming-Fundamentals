@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\06.Winecraft\bin\Debug\06.Winecraft.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\06.Winecraft\bin\Debug\06.Winecraft.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\06.Winecraft\bin\Debug\06.Winecraft.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\06.Winecraft\obj\Debug\06.Winecraft.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\06.Winecraft\obj\Debug\06.Winecraft.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\06.Winecraft\obj\Debug\06.Winecraft.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\06.Winecraft\obj\Debug\06.Winecraft.pdb

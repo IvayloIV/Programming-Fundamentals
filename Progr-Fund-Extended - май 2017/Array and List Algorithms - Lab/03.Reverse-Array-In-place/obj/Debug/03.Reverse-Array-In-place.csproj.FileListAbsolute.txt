@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\03.Reverse-Array-In-place\bin\Debug\03.Reverse-Array-In-place.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\03.Reverse-Array-In-place\bin\Debug\03.Reverse-Array-In-place.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\03.Reverse-Array-In-place\bin\Debug\03.Reverse-Array-In-place.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\03.Reverse-Array-In-place\obj\Debug\03.Reverse-Array-In-place.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\03.Reverse-Array-In-place\obj\Debug\03.Reverse-Array-In-place.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\03.Reverse-Array-In-place\obj\Debug\03.Reverse-Array-In-place.pdb

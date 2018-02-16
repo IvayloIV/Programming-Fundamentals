@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\05.Note-Statistics\bin\Debug\05.Note-Statistics.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\05.Note-Statistics\bin\Debug\05.Note-Statistics.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\05.Note-Statistics\bin\Debug\05.Note-Statistics.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\05.Note-Statistics\obj\Debug\05.Note-Statistics.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\05.Note-Statistics\obj\Debug\05.Note-Statistics.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\05.Note-Statistics\obj\Debug\05.Note-Statistics.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\05.Note-Statistics\obj\Debug\05.Note-Statistics.pdb

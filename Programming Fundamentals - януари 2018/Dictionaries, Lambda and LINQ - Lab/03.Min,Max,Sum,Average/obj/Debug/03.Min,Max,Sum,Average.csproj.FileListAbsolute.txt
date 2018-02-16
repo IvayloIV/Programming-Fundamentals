@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\03.Min,Max,Sum,Average\bin\Debug\03.Min,Max,Sum,Average.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\03.Min,Max,Sum,Average\bin\Debug\03.Min,Max,Sum,Average.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\03.Min,Max,Sum,Average\bin\Debug\03.Min,Max,Sum,Average.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\03.Min,Max,Sum,Average\obj\Debug\03.Min,Max,Sum,Average.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\03.Min,Max,Sum,Average\obj\Debug\03.Min,Max,Sum,Average.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\03.Min,Max,Sum,Average\obj\Debug\03.Min,Max,Sum,Average.pdb

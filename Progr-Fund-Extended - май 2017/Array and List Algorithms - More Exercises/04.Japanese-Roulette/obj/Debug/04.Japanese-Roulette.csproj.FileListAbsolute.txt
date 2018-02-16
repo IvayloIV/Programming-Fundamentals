@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\04.Japanese-Roulette\bin\Debug\04.Japanese-Roulette.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\04.Japanese-Roulette\bin\Debug\04.Japanese-Roulette.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\04.Japanese-Roulette\bin\Debug\04.Japanese-Roulette.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\04.Japanese-Roulette\obj\Debug\04.Japanese-Roulette.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\04.Japanese-Roulette\obj\Debug\04.Japanese-Roulette.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\04.Japanese-Roulette\obj\Debug\04.Japanese-Roulette.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\04.Japanese-Roulette\obj\Debug\04.Japanese-Roulette.pdb

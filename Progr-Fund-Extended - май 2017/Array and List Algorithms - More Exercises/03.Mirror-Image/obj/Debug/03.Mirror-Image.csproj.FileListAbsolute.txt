@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\03.Mirror-Image\bin\Debug\03.Mirror-Image.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\03.Mirror-Image\bin\Debug\03.Mirror-Image.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\03.Mirror-Image\bin\Debug\03.Mirror-Image.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\03.Mirror-Image\obj\Debug\03.Mirror-Image.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\03.Mirror-Image\obj\Debug\03.Mirror-Image.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\03.Mirror-Image\obj\Debug\03.Mirror-Image.pdb

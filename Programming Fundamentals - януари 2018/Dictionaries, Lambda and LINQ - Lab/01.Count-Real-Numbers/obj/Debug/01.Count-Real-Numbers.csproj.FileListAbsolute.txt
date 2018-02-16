@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\01.Count-Real-Numbers\bin\Debug\01.Count-Real-Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\01.Count-Real-Numbers\bin\Debug\01.Count-Real-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\01.Count-Real-Numbers\bin\Debug\01.Count-Real-Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\01.Count-Real-Numbers\obj\Debug\01.Count-Real-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\01.Count-Real-Numbers\obj\Debug\01.Count-Real-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\01.Count-Real-Numbers\obj\Debug\01.Count-Real-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\01.Count-Real-Numbers\obj\Debug\01.Count-Real-Numbers.pdb

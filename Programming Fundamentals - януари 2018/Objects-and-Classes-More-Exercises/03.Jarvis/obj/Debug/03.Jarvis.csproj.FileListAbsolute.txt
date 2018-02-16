@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\03.Jarvis\bin\Debug\03.Jarvis.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\03.Jarvis\bin\Debug\03.Jarvis.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\03.Jarvis\bin\Debug\03.Jarvis.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\03.Jarvis\obj\Debug\03.Jarvis.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\03.Jarvis\obj\Debug\03.Jarvis.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\03.Jarvis\obj\Debug\03.Jarvis.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects-and-Classes-More-Exercises\03.Jarvis\obj\Debug\03.Jarvis.pdb

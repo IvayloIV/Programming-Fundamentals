@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\07.Andrey-and-Billiard\bin\Debug\07.Andrey-and-Billiard.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\07.Andrey-and-Billiard\bin\Debug\07.Andrey-and-Billiard.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\07.Andrey-and-Billiard\bin\Debug\07.Andrey-and-Billiard.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\07.Andrey-and-Billiard\obj\Debug\07.Andrey-and-Billiard.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\07.Andrey-and-Billiard\obj\Debug\07.Andrey-and-Billiard.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\07.Andrey-and-Billiard\obj\Debug\07.Andrey-and-Billiard.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Exercises\07.Andrey-and-Billiard\obj\Debug\07.Andrey-and-Billiard.pdb

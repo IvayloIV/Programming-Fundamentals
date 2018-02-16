@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\04.Distance-between-Points\bin\Debug\04.Distance-between-Points.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\04.Distance-between-Points\bin\Debug\04.Distance-between-Points.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\04.Distance-between-Points\bin\Debug\04.Distance-between-Points.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\04.Distance-between-Points\obj\Debug\04.Distance-between-Points.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\04.Distance-between-Points\obj\Debug\04.Distance-between-Points.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\04.Distance-between-Points\obj\Debug\04.Distance-between-Points.pdb

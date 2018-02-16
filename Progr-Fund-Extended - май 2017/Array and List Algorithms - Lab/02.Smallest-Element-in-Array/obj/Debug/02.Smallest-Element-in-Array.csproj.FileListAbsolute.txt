@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\02.Smallest-Element-in-Array\bin\Debug\02.Smallest-Element-in-Array.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\02.Smallest-Element-in-Array\bin\Debug\02.Smallest-Element-in-Array.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\02.Smallest-Element-in-Array\bin\Debug\02.Smallest-Element-in-Array.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\02.Smallest-Element-in-Array\obj\Debug\02.Smallest-Element-in-Array.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\02.Smallest-Element-in-Array\obj\Debug\02.Smallest-Element-in-Array.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\02.Smallest-Element-in-Array\obj\Debug\02.Smallest-Element-in-Array.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\02.Smallest-Element-in-Array\obj\Debug\02.Smallest-Element-in-Array.pdb

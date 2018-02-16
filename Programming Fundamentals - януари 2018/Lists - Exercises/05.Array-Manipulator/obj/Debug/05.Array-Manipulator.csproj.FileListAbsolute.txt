@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\05.Array-Manipulator\bin\Debug\05.Array-Manipulator.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\05.Array-Manipulator\bin\Debug\05.Array-Manipulator.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\05.Array-Manipulator\bin\Debug\05.Array-Manipulator.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\05.Array-Manipulator\obj\Debug\05.Array-Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\05.Array-Manipulator\obj\Debug\05.Array-Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\05.Array-Manipulator\obj\Debug\05.Array-Manipulator.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\05.Array-Manipulator\obj\Debug\05.Array-Manipulator.pdb

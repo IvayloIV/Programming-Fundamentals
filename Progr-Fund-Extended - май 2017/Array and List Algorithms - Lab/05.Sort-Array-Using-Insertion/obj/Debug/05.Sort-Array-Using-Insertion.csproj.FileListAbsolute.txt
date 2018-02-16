@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\05.Sort-Array-Using-Insertion\bin\Debug\05.Sort-Array-Using-Insertion.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\05.Sort-Array-Using-Insertion\bin\Debug\05.Sort-Array-Using-Insertion.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\05.Sort-Array-Using-Insertion\bin\Debug\05.Sort-Array-Using-Insertion.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\05.Sort-Array-Using-Insertion\obj\Debug\05.Sort-Array-Using-Insertion.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\05.Sort-Array-Using-Insertion\obj\Debug\05.Sort-Array-Using-Insertion.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\05.Sort-Array-Using-Insertion\obj\Debug\05.Sort-Array-Using-Insertion.pdb

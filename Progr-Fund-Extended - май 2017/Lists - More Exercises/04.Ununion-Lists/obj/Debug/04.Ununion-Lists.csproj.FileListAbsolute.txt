@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\04.Ununion-Lists\bin\Debug\04.Ununion-Lists.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\04.Ununion-Lists\bin\Debug\04.Ununion-Lists.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\04.Ununion-Lists\bin\Debug\04.Ununion-Lists.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\04.Ununion-Lists\obj\Debug\04.Ununion-Lists.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\04.Ununion-Lists\obj\Debug\04.Ununion-Lists.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - More Exercises\04.Ununion-Lists\obj\Debug\04.Ununion-Lists.pdb

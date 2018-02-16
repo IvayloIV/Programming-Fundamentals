@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\02.Binary-Search\bin\Debug\02.Binary-Search.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\02.Binary-Search\bin\Debug\02.Binary-Search.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\02.Binary-Search\bin\Debug\02.Binary-Search.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\02.Binary-Search\obj\Debug\02.Binary-Search.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\02.Binary-Search\obj\Debug\02.Binary-Search.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\02.Binary-Search\obj\Debug\02.Binary-Search.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - More Exercises\02.Binary-Search\obj\Debug\02.Binary-Search.pdb

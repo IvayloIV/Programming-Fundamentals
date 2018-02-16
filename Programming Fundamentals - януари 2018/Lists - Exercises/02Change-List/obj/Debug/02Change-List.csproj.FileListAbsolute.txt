@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\02Change-List\bin\Debug\02Change-List.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\02Change-List\bin\Debug\02Change-List.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\02Change-List\bin\Debug\02Change-List.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\02Change-List\obj\Debug\02Change-List.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\02Change-List\obj\Debug\02Change-List.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\02Change-List\obj\Debug\02Change-List.pdb

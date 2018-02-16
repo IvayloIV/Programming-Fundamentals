@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\06.Sum-Reversed-Numbers\bin\Debug\06.Sum-Reversed-Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\06.Sum-Reversed-Numbers\bin\Debug\06.Sum-Reversed-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\06.Sum-Reversed-Numbers\bin\Debug\06.Sum-Reversed-Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\06.Sum-Reversed-Numbers\obj\Debug\06.Sum-Reversed-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\06.Sum-Reversed-Numbers\obj\Debug\06.Sum-Reversed-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\06.Sum-Reversed-Numbers\obj\Debug\06.Sum-Reversed-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Lists - Exercises\06.Sum-Reversed-Numbers\obj\Debug\06.Sum-Reversed-Numbers.pdb

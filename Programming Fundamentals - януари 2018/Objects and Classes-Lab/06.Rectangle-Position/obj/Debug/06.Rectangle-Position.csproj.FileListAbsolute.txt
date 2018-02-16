@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\06.Rectangle-Position\bin\Debug\06.Rectangle-Position.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\06.Rectangle-Position\bin\Debug\06.Rectangle-Position.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\06.Rectangle-Position\bin\Debug\06.Rectangle-Position.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\06.Rectangle-Position\obj\Debug\06.Rectangle-Position.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\06.Rectangle-Position\obj\Debug\06.Rectangle-Position.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\06.Rectangle-Position\obj\Debug\06.Rectangle-Position.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Objects and Classes-Lab\06.Rectangle-Position\obj\Debug\06.Rectangle-Position.pdb

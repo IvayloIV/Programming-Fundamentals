@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\05.Short-Words-Sorted\bin\Debug\05.Short-Words-Sorted.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\05.Short-Words-Sorted\bin\Debug\05.Short-Words-Sorted.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\05.Short-Words-Sorted\bin\Debug\05.Short-Words-Sorted.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\05.Short-Words-Sorted\obj\Debug\05.Short-Words-Sorted.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\05.Short-Words-Sorted\obj\Debug\05.Short-Words-Sorted.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\05.Short-Words-Sorted\obj\Debug\05.Short-Words-Sorted.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\05.Short-Words-Sorted\obj\Debug\05.Short-Words-Sorted.pdb

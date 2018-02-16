@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\04.Largest-3-Numbers\bin\Debug\04.Largest-3-Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\04.Largest-3-Numbers\bin\Debug\04.Largest-3-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\04.Largest-3-Numbers\bin\Debug\04.Largest-3-Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\04.Largest-3-Numbers\obj\Debug\04.Largest-3-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\04.Largest-3-Numbers\obj\Debug\04.Largest-3-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries, Lambda and LINQ - Lab\04.Largest-3-Numbers\obj\Debug\04.Largest-3-Numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\06.Stuck-Zipper\bin\Debug\06.Stuck-Zipper.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\06.Stuck-Zipper\bin\Debug\06.Stuck-Zipper.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\06.Stuck-Zipper\bin\Debug\06.Stuck-Zipper.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\06.Stuck-Zipper\obj\Debug\06.Stuck-Zipper.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\06.Stuck-Zipper\obj\Debug\06.Stuck-Zipper.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\06.Stuck-Zipper\obj\Debug\06.Stuck-Zipper.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lists - Exercises\06.Stuck-Zipper\obj\Debug\06.Stuck-Zipper.pdb

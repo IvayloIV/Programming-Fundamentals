@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\07.Largest-N-Elements\bin\Debug\07.Largest-N-Elements.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\07.Largest-N-Elements\bin\Debug\07.Largest-N-Elements.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\07.Largest-N-Elements\bin\Debug\07.Largest-N-Elements.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\07.Largest-N-Elements\obj\Debug\07.Largest-N-Elements.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\07.Largest-N-Elements\obj\Debug\07.Largest-N-Elements.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Array and List Algorithms - Lab\07.Largest-N-Elements\obj\Debug\07.Largest-N-Elements.pdb
