@@ -16,6 +16,12 @@
 12.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Arrays%20-%20Exercises" > <b>Arrays - Exercises</b> </a> 
 13.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Arrays%20and%20Methods%20-%20More%20Exercises" > <b>Arrays and Methods - More Exercises</b> </a>
 14.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Lists%20-%20Lab" > <b>Lists - Lab</b> </a>
+15.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Lists%20-%20Exercises" > <b>Lists - Exercises</b> </a>
+16.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Dictionaries%2C%20Lambda%20and%20LINQ%20-%20Lab" > <b>Dictionaries, Lambda and LINQ - Lab</b> </a>
+17.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Dictionaries%2C%20Lambda%20and%20LINQ%20-%20Exercises" > <b>Dictionaries, Lambda and LINQ - Exercises</b> </a>
+18.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Objects%20and%20Classes-Lab" > <b>Objects and Classes-Lab</b> </a>
+19.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Objects%20and%20Classes-Exercises" > <b>Objects and Classes-Exercises</b> </a>
+20.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Objects-and-Classes-More-Exercises" > <b>Objects and Classes-More-Exercises</b> </a>
 
 ## <b>Programming Fundamentals - Extended - ноември 2017</b>
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Extended%20-%20%D0%BD%D0%BE%D0%B5%D0%BC%D0%B2%D1%80%D0%B8%202017/Data%20Types%2C%20Variables%20and%20Methods%20%20Lab" > <b>Data Types, Variables and Methods - Lab</b> </a> 
@@ -36,6 +42,11 @@
 4.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Arrays%20-%20Lab" > <b>Arrays - Lab</b> </a> 
 5.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Arrays%20and%20Methods%20-%20Exercises" > <b>Arrays and Methods - Exercises</b> </a> 
 6.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Arrays%20-%20More%20Exercises" > <b>Arrays - More Exercises</b> </a> 
+7.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Lists%20-%20Exercises" > <b>Lists - Exercises</b> </a> 
+8.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Lists%20-%20More%20Exercises" > <b>Lists - More Exercises</b> </a> 
+9.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Array%20and%20List%20Algorithms%20-%20Lab" > <b>Array and List Algorithms - Lab</b> </a> 
+10.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Array%20and%20List%20Algorithms%20-%20Exercises" > <b>Array and List Algorithms - Exercises</b> </a> 
+11.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr-Fund-Extended%20-%20%D0%BC%D0%B0%D0%B9%202017/Array%20and%20List%20Algorithms%20-%20More%20Exercises" > <b>Array and List Algorithms - More Exercises</b> </a> 
 
 ## <b>Programming Fundamentals - Exams</b>
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Exams/Exam%20Preparation%20I" > <b>Exam Preparation I</b> </a> 
