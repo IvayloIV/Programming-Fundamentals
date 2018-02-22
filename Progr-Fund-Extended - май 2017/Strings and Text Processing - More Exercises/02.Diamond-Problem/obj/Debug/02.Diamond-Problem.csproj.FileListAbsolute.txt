@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\02.Diamond-Problem\bin\Debug\02.Diamond-Problem.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\02.Diamond-Problem\bin\Debug\02.Diamond-Problem.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\02.Diamond-Problem\bin\Debug\02.Diamond-Problem.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\02.Diamond-Problem\obj\Debug\02.Diamond-Problem.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\02.Diamond-Problem\obj\Debug\02.Diamond-Problem.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\02.Diamond-Problem\obj\Debug\02.Diamond-Problem.pdb

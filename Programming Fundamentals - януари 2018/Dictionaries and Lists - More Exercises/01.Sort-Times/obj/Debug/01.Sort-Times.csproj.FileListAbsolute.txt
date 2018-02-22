@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\01.Sort-Times\bin\Debug\01.Sort-Times.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\01.Sort-Times\bin\Debug\01.Sort-Times.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\01.Sort-Times\bin\Debug\01.Sort-Times.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\01.Sort-Times\obj\Debug\01.Sort-Times.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\01.Sort-Times\obj\Debug\01.Sort-Times.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\01.Sort-Times\obj\Debug\01.Sort-Times.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\01.Sort-Times\obj\Debug\01.Sort-Times.pdb

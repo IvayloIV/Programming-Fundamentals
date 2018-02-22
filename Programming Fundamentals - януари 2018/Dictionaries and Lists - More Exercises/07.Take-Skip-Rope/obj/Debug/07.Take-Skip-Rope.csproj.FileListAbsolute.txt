@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\07.Take-Skip-Rope\bin\Debug\07.Take-Skip-Rope.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\07.Take-Skip-Rope\bin\Debug\07.Take-Skip-Rope.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\07.Take-Skip-Rope\bin\Debug\07.Take-Skip-Rope.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\07.Take-Skip-Rope\obj\Debug\07.Take-Skip-Rope.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\07.Take-Skip-Rope\obj\Debug\07.Take-Skip-Rope.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\07.Take-Skip-Rope\obj\Debug\07.Take-Skip-Rope.pdb

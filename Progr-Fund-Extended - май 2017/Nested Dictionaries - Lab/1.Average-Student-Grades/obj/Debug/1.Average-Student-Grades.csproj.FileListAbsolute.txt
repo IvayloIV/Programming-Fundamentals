@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\1.Average-Student-Grades\bin\Debug\1.Average-Student-Grades.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\1.Average-Student-Grades\bin\Debug\1.Average-Student-Grades.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\1.Average-Student-Grades\bin\Debug\1.Average-Student-Grades.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\1.Average-Student-Grades\obj\Debug\1.Average-Student-Grades.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\1.Average-Student-Grades\obj\Debug\1.Average-Student-Grades.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\1.Average-Student-Grades\obj\Debug\1.Average-Student-Grades.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\1.Average-Student-Grades\obj\Debug\1.Average-Student-Grades.pdb

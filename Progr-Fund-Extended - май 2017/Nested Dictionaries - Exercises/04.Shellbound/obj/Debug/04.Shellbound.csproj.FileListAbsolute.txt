@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\04.Shellbound\bin\Debug\04.Shellbound.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\04.Shellbound\bin\Debug\04.Shellbound.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\04.Shellbound\bin\Debug\04.Shellbound.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\04.Shellbound\obj\Debug\04.Shellbound.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\04.Shellbound\obj\Debug\04.Shellbound.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\04.Shellbound\obj\Debug\04.Shellbound.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\04.Shellbound\obj\Debug\04.Shellbound.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\04.Deserialize-String\bin\Debug\04.Deserialize-String.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\04.Deserialize-String\bin\Debug\04.Deserialize-String.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\04.Deserialize-String\bin\Debug\04.Deserialize-String.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\04.Deserialize-String\obj\Debug\04.Deserialize-String.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\04.Deserialize-String\obj\Debug\04.Deserialize-String.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\04.Deserialize-String\obj\Debug\04.Deserialize-String.pdb

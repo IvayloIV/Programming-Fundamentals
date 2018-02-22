@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\03.Unicode-Characters\bin\Debug\03.Unicode-Characters.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\03.Unicode-Characters\bin\Debug\03.Unicode-Characters.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\03.Unicode-Characters\bin\Debug\03.Unicode-Characters.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\03.Unicode-Characters\obj\Debug\03.Unicode-Characters.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\03.Unicode-Characters\obj\Debug\03.Unicode-Characters.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\03.Unicode-Characters\obj\Debug\03.Unicode-Characters.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\3.Record-Unique-Names\bin\Debug\3.Record-Unique-Names.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\3.Record-Unique-Names\bin\Debug\3.Record-Unique-Names.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\3.Record-Unique-Names\bin\Debug\3.Record-Unique-Names.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\3.Record-Unique-Names\obj\Debug\3.Record-Unique-Names.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\3.Record-Unique-Names\obj\Debug\3.Record-Unique-Names.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\3.Record-Unique-Names\obj\Debug\3.Record-Unique-Names.pdb

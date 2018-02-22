@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\04.Websites\bin\Debug\04.Websites.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\04.Websites\bin\Debug\04.Websites.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\04.Websites\bin\Debug\04.Websites.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\04.Websites\obj\Debug\04.Websites.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\04.Websites\obj\Debug\04.Websites.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\04.Websites\obj\Debug\04.Websites.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\04.Websites\obj\Debug\04.Websites.pdb

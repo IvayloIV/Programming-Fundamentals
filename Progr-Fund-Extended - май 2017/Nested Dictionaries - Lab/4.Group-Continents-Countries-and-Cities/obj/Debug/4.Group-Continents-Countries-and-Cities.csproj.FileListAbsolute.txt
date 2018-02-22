@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\4.Group-Continents-Countries-and-Cities\bin\Debug\4.Group-Continents-Countries-and-Cities.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\4.Group-Continents-Countries-and-Cities\bin\Debug\4.Group-Continents-Countries-and-Cities.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\4.Group-Continents-Countries-and-Cities\bin\Debug\4.Group-Continents-Countries-and-Cities.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\4.Group-Continents-Countries-and-Cities\obj\Debug\4.Group-Continents-Countries-and-Cities.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\4.Group-Continents-Countries-and-Cities\obj\Debug\4.Group-Continents-Countries-and-Cities.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt3\4.Group-Continents-Countries-and-Cities\obj\Debug\4.Group-Continents-Countries-and-Cities.pdb

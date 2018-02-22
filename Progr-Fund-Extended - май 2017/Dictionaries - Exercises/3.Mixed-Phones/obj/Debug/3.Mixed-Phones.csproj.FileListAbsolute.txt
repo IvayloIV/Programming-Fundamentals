@@ -1,0 +1,12 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\3.Mixed-Phones\bin\Debug\3.Mixed-Phones.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\3.Mixed-Phones\bin\Debug\3.Mixed-Phones.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\3.Mixed-Phones\bin\Debug\3.Mixed-Phones.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\3.Mixed-Phones\obj\Debug\3.Mixed-Phones.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\3.Mixed-Phones\obj\Debug\3.Mixed-Phones.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\3.Mixed-Phones\obj\Debug\3.Mixed-Phones.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Dictionaries - Exercises\3.Mixed-Phones\bin\Debug\3.Mixed-Phones.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Dictionaries - Exercises\3.Mixed-Phones\bin\Debug\3.Mixed-Phones.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Dictionaries - Exercises\3.Mixed-Phones\bin\Debug\3.Mixed-Phones.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Dictionaries - Exercises\3.Mixed-Phones\obj\Debug\3.Mixed-Phones.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Dictionaries - Exercises\3.Mixed-Phones\obj\Debug\3.Mixed-Phones.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Dictionaries - Exercises\3.Mixed-Phones\obj\Debug\3.Mixed-Phones.pdb

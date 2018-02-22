@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\07.Capitalize-Words\bin\Debug\07.Capitalize-Words.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\07.Capitalize-Words\bin\Debug\07.Capitalize-Words.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\07.Capitalize-Words\bin\Debug\07.Capitalize-Words.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\07.Capitalize-Words\obj\Debug\07.Capitalize-Words.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\07.Capitalize-Words\obj\Debug\07.Capitalize-Words.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\07.Capitalize-Words\obj\Debug\07.Capitalize-Words.pdb

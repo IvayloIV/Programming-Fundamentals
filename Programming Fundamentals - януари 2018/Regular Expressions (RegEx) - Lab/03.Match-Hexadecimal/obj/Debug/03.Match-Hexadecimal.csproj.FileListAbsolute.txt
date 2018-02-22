@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\03.Match-Hexadecimal\bin\Debug\03.Match-Hexadecimal.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\03.Match-Hexadecimal\bin\Debug\03.Match-Hexadecimal.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\03.Match-Hexadecimal\bin\Debug\03.Match-Hexadecimal.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\03.Match-Hexadecimal\obj\Debug\03.Match-Hexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\03.Match-Hexadecimal\obj\Debug\03.Match-Hexadecimal.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\03.Match-Hexadecimal\obj\Debug\03.Match-Hexadecimal.pdb

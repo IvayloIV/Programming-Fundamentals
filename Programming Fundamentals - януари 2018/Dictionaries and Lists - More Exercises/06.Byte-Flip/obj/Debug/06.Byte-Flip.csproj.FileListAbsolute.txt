@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\06.Byte-Flip\bin\Debug\06.Byte-Flip.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\06.Byte-Flip\bin\Debug\06.Byte-Flip.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\06.Byte-Flip\bin\Debug\06.Byte-Flip.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\06.Byte-Flip\obj\Debug\06.Byte-Flip.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\06.Byte-Flip\obj\Debug\06.Byte-Flip.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\06.Byte-Flip\obj\Debug\06.Byte-Flip.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\06.Byte-Flip\obj\Debug\06.Byte-Flip.csprojResolveAssemblyReference.cache

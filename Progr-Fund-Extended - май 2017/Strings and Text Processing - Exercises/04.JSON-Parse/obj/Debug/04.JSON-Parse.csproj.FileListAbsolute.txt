@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\04.JSON-Parse\bin\Debug\04.JSON-Parse.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\04.JSON-Parse\bin\Debug\04.JSON-Parse.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\04.JSON-Parse\bin\Debug\04.JSON-Parse.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\04.JSON-Parse\obj\Debug\04.JSON-Parse.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\04.JSON-Parse\obj\Debug\04.JSON-Parse.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\04.JSON-Parse\obj\Debug\04.JSON-Parse.pdb

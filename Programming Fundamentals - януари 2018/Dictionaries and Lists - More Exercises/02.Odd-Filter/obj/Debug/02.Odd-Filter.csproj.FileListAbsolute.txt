@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\02.Odd-Filter\bin\Debug\02.Odd-Filter.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\02.Odd-Filter\bin\Debug\02.Odd-Filter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\02.Odd-Filter\bin\Debug\02.Odd-Filter.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\02.Odd-Filter\obj\Debug\02.Odd-Filter.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\02.Odd-Filter\obj\Debug\02.Odd-Filter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\02.Odd-Filter\obj\Debug\02.Odd-Filter.pdb

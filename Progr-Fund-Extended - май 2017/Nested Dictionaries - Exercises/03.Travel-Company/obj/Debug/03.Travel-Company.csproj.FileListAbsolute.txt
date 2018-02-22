@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\03.Travel-Company\bin\Debug\03.Travel-Company.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\03.Travel-Company\bin\Debug\03.Travel-Company.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\03.Travel-Company\bin\Debug\03.Travel-Company.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\03.Travel-Company\obj\Debug\03.Travel-Company.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\03.Travel-Company\obj\Debug\03.Travel-Company.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\03.Travel-Company\obj\Debug\03.Travel-Company.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\03.Travel-Company\obj\Debug\03.Travel-Company.pdb

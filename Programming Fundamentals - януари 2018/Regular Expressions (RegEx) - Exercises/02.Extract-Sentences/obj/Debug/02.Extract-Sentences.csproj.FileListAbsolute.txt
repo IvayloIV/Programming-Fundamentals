@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\02.Extract-Sentences\bin\Debug\02.Extract-Sentences.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\02.Extract-Sentences\bin\Debug\02.Extract-Sentences.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\02.Extract-Sentences\bin\Debug\02.Extract-Sentences.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\02.Extract-Sentences\obj\Debug\02.Extract-Sentences.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\02.Extract-Sentences\obj\Debug\02.Extract-Sentences.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\02.Extract-Sentences\obj\Debug\02.Extract-Sentences.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\02.Extract-Sentences\obj\Debug\02.Extract-Sentences.pdb

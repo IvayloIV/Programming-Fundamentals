@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\02.Count-Real-Numbers\bin\Debug\02.Count-Real-Numbers.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\02.Count-Real-Numbers\bin\Debug\02.Count-Real-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\02.Count-Real-Numbers\bin\Debug\02.Count-Real-Numbers.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\02.Count-Real-Numbers\obj\Debug\02.Count-Real-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\02.Count-Real-Numbers\obj\Debug\02.Count-Real-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\02.Count-Real-Numbers\obj\Debug\02.Count-Real-Numbers.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\02.Count-Real-Numbers\obj\Debug\02.Count-Real-Numbers.pdb

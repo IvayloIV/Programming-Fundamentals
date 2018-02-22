@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\07.Social-Media-Posts\bin\Debug\07.Social-Media-Posts.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\07.Social-Media-Posts\bin\Debug\07.Social-Media-Posts.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\07.Social-Media-Posts\bin\Debug\07.Social-Media-Posts.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\07.Social-Media-Posts\obj\Debug\07.Social-Media-Posts.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\07.Social-Media-Posts\obj\Debug\07.Social-Media-Posts.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\07.Social-Media-Posts\obj\Debug\07.Social-Media-Posts.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\07.Social-Media-Posts\obj\Debug\07.Social-Media-Posts.pdb

@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\01.Array-Data\bin\Debug\01.Array-Data.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\01.Array-Data\bin\Debug\01.Array-Data.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\01.Array-Data\bin\Debug\01.Array-Data.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\01.Array-Data\obj\Debug\01.Array-Data.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\01.Array-Data\obj\Debug\01.Array-Data.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\01.Array-Data\obj\Debug\01.Array-Data.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\01.Array-Data\obj\Debug\01.Array-Data.pdb

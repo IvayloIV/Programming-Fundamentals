@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\05.Points-Counter\bin\Debug\05.Points-Counter.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\05.Points-Counter\bin\Debug\05.Points-Counter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\05.Points-Counter\bin\Debug\05.Points-Counter.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\05.Points-Counter\obj\Debug\05.Points-Counter.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\05.Points-Counter\obj\Debug\05.Points-Counter.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\05.Points-Counter\obj\Debug\05.Points-Counter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\05.Points-Counter\obj\Debug\05.Points-Counter.pdb

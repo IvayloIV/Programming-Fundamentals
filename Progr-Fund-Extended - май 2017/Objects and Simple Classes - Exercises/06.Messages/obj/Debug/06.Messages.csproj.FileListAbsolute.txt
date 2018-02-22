@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\06.Messages\bin\Debug\06.Messages.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\06.Messages\bin\Debug\06.Messages.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\06.Messages\bin\Debug\06.Messages.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\06.Messages\obj\Debug\06.Messages.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\06.Messages\obj\Debug\06.Messages.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\06.Messages\obj\Debug\06.Messages.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\06.Messages\obj\Debug\06.Messages.pdb

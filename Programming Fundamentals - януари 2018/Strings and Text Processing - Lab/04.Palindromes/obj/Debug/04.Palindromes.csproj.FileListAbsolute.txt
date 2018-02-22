@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Lab\04.Palindromes\bin\Debug\04.Palindromes.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Lab\04.Palindromes\bin\Debug\04.Palindromes.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Lab\04.Palindromes\bin\Debug\04.Palindromes.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Lab\04.Palindromes\obj\Debug\04.Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Lab\04.Palindromes\obj\Debug\04.Palindromes.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Lab\04.Palindromes\obj\Debug\04.Palindromes.pdb

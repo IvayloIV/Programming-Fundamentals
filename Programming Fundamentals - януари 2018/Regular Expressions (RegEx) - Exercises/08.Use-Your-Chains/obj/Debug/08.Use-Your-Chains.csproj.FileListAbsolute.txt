@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\08.Use-Your-Chains\bin\Debug\08.Use-Your-Chains.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\08.Use-Your-Chains\bin\Debug\08.Use-Your-Chains.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\08.Use-Your-Chains\bin\Debug\08.Use-Your-Chains.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\08.Use-Your-Chains\obj\Debug\08.Use-Your-Chains.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\08.Use-Your-Chains\obj\Debug\08.Use-Your-Chains.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\08.Use-Your-Chains\obj\Debug\08.Use-Your-Chains.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\08.Use-Your-Chains\obj\Debug\08.Use-Your-Chains.pdb

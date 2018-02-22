@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\6.Filter-Base\bin\Debug\6.Filter-Base.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\6.Filter-Base\bin\Debug\6.Filter-Base.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\6.Filter-Base\bin\Debug\6.Filter-Base.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\6.Filter-Base\obj\Debug\6.Filter-Base.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\6.Filter-Base\obj\Debug\6.Filter-Base.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\6.Filter-Base\obj\Debug\6.Filter-Base.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\6.Filter-Base\obj\Debug\6.Filter-Base.pdb

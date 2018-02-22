@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\03.JSON-Stringify\bin\Debug\03.JSON-Stringify.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\03.JSON-Stringify\bin\Debug\03.JSON-Stringify.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\03.JSON-Stringify\bin\Debug\03.JSON-Stringify.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\03.JSON-Stringify\obj\Debug\03.JSON-Stringify.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\03.JSON-Stringify\obj\Debug\03.JSON-Stringify.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\03.JSON-Stringify\obj\Debug\03.JSON-Stringify.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\03.JSON-Stringify\obj\Debug\03.JSON-Stringify.pdb

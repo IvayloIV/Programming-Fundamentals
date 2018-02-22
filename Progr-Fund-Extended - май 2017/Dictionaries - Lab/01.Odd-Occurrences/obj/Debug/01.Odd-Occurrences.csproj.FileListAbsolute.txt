@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\01.Odd-Occurrences\bin\Debug\01.Odd-Occurrences.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\01.Odd-Occurrences\bin\Debug\01.Odd-Occurrences.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\01.Odd-Occurrences\bin\Debug\01.Odd-Occurrences.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\01.Odd-Occurrences\obj\Debug\01.Odd-Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\01.Odd-Occurrences\obj\Debug\01.Odd-Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\01.Odd-Occurrences\obj\Debug\01.Odd-Occurrences.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt1\01.Odd-Occurrences\obj\Debug\01.Odd-Occurrences.pdb

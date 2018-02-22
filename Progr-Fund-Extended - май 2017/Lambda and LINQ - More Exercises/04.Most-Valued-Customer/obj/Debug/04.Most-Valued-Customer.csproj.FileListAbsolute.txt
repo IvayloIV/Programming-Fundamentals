@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\04.Most-Valued-Customer\bin\Debug\04.Most-Valued-Customer.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\04.Most-Valued-Customer\bin\Debug\04.Most-Valued-Customer.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\04.Most-Valued-Customer\bin\Debug\04.Most-Valued-Customer.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\04.Most-Valued-Customer\obj\Debug\04.Most-Valued-Customer.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\04.Most-Valued-Customer\obj\Debug\04.Most-Valued-Customer.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\04.Most-Valued-Customer\obj\Debug\04.Most-Valued-Customer.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\04.Most-Valued-Customer\obj\Debug\04.Most-Valued-Customer.pdb

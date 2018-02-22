@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\06.Sentence-Split\bin\Debug\06.Sentence-Split.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\06.Sentence-Split\bin\Debug\06.Sentence-Split.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\06.Sentence-Split\bin\Debug\06.Sentence-Split.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\06.Sentence-Split\obj\Debug\06.Sentence-Split.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\06.Sentence-Split\obj\Debug\06.Sentence-Split.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - Exercises\06.Sentence-Split\obj\Debug\06.Sentence-Split.pdb

@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\05.Parking-Validation\bin\Debug\05.Parking-Validation.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\05.Parking-Validation\bin\Debug\05.Parking-Validation.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\05.Parking-Validation\bin\Debug\05.Parking-Validation.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\05.Parking-Validation\obj\Debug\05.Parking-Validation.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\05.Parking-Validation\obj\Debug\05.Parking-Validation.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\05.Parking-Validation\obj\Debug\05.Parking-Validation.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Dictionaries and Lists - More Exercises\05.Parking-Validation\obj\Debug\05.Parking-Validation.pdb

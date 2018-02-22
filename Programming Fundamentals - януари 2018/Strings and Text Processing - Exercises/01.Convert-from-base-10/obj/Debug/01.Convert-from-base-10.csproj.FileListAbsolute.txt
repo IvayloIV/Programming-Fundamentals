@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\01.Convert-from-base-10\bin\Debug\01.Convert-from-base-10.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\01.Convert-from-base-10\bin\Debug\01.Convert-from-base-10.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\01.Convert-from-base-10\bin\Debug\01.Convert-from-base-10.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\01.Convert-from-base-10\obj\Debug\01.Convert-from-base-10.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\01.Convert-from-base-10\obj\Debug\01.Convert-from-base-10.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\01.Convert-from-base-10\obj\Debug\01.Convert-from-base-10.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\01.Convert-from-base-10\obj\Debug\01.Convert-from-base-10.pdb

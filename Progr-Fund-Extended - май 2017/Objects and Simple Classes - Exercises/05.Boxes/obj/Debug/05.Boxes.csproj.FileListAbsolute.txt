@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\05.Boxes\bin\Debug\05.Boxes.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\05.Boxes\bin\Debug\05.Boxes.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\05.Boxes\bin\Debug\05.Boxes.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\05.Boxes\obj\Debug\05.Boxes.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\05.Boxes\obj\Debug\05.Boxes.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\05.Boxes\obj\Debug\05.Boxes.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\05.Boxes\obj\Debug\05.Boxes.pdb

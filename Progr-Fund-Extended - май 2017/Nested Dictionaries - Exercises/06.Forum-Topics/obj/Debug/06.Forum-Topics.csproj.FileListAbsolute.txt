@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\06.Forum-Topics\bin\Debug\06.Forum-Topics.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\06.Forum-Topics\bin\Debug\06.Forum-Topics.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\06.Forum-Topics\bin\Debug\06.Forum-Topics.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\06.Forum-Topics\obj\Debug\06.Forum-Topics.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\06.Forum-Topics\obj\Debug\06.Forum-Topics.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\06.Forum-Topics\obj\Debug\06.Forum-Topics.pdb

@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\08.Nilapdromes\bin\Debug\08.Nilapdromes.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\08.Nilapdromes\bin\Debug\08.Nilapdromes.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\08.Nilapdromes\bin\Debug\08.Nilapdromes.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\08.Nilapdromes\obj\Debug\08.Nilapdromes.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\08.Nilapdromes\obj\Debug\08.Nilapdromes.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\08.Nilapdromes\obj\Debug\08.Nilapdromes.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Strings and Text Processing - More Exercises\08.Nilapdromes\obj\Debug\08.Nilapdromes.pdb

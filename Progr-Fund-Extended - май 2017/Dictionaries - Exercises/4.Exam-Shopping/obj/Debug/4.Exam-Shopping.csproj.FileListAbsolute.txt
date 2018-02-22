@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\4.Exam-Shopping\bin\Debug\4.Exam-Shopping.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\4.Exam-Shopping\bin\Debug\4.Exam-Shopping.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\4.Exam-Shopping\bin\Debug\4.Exam-Shopping.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\4.Exam-Shopping\obj\Debug\4.Exam-Shopping.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\4.Exam-Shopping\obj\Debug\4.Exam-Shopping.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\4.Exam-Shopping\obj\Debug\4.Exam-Shopping.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\4.Exam-Shopping\obj\Debug\4.Exam-Shopping.pdb

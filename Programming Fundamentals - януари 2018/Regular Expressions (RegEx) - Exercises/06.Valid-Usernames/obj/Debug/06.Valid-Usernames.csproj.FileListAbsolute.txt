@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\06.Valid-Usernames\bin\Debug\06.Valid-Usernames.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\06.Valid-Usernames\bin\Debug\06.Valid-Usernames.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\06.Valid-Usernames\bin\Debug\06.Valid-Usernames.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\06.Valid-Usernames\obj\Debug\06.Valid-Usernames.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\06.Valid-Usernames\obj\Debug\06.Valid-Usernames.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\06.Valid-Usernames\obj\Debug\06.Valid-Usernames.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Exercises\06.Valid-Usernames\obj\Debug\06.Valid-Usernames.pdb

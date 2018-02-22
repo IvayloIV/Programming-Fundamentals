@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\06.Replace-a-Tag\bin\Debug\06.Replace-a-Tag.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\06.Replace-a-Tag\bin\Debug\06.Replace-a-Tag.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\06.Replace-a-Tag\bin\Debug\06.Replace-a-Tag.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\06.Replace-a-Tag\obj\Debug\06.Replace-a-Tag.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\06.Replace-a-Tag\obj\Debug\06.Replace-a-Tag.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Regular Expressions (RegEx) - Lab\06.Replace-a-Tag\obj\Debug\06.Replace-a-Tag.pdb

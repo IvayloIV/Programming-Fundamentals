@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\03.Animals\bin\Debug\03.Animals.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\03.Animals\bin\Debug\03.Animals.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\03.Animals\bin\Debug\03.Animals.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\03.Animals\obj\Debug\03.Animals.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\03.Animals\obj\Debug\03.Animals.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\03.Animals\obj\Debug\03.Animals.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Objects and Simple Classes - Exercises\03.Animals\obj\Debug\03.Animals.pdb

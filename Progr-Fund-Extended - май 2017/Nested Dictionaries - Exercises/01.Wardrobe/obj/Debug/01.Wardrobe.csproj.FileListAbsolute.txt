@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\01.Wardrobe\bin\Debug\01.Wardrobe.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\01.Wardrobe\bin\Debug\01.Wardrobe.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\01.Wardrobe\bin\Debug\01.Wardrobe.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\01.Wardrobe\obj\Debug\01.Wardrobe.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\01.Wardrobe\obj\Debug\01.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\01.Wardrobe\obj\Debug\01.Wardrobe.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\01.Wardrobe\obj\Debug\01.Wardrobe.pdb

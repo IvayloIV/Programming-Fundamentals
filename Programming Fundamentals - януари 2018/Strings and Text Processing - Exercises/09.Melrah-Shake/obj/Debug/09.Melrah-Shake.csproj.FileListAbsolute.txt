@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\09.Melrah-Shake\bin\Debug\09.Melrah-Shake.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\09.Melrah-Shake\bin\Debug\09.Melrah-Shake.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\09.Melrah-Shake\bin\Debug\09.Melrah-Shake.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\09.Melrah-Shake\obj\Debug\09.Melrah-Shake.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\09.Melrah-Shake\obj\Debug\09.Melrah-Shake.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Text Processing - Exercises\09.Melrah-Shake\obj\Debug\09.Melrah-Shake.pdb

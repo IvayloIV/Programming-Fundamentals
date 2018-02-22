@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\06.Ordered-Banking-System\bin\Debug\06.Ordered-Banking-System.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\06.Ordered-Banking-System\bin\Debug\06.Ordered-Banking-System.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\06.Ordered-Banking-System\bin\Debug\06.Ordered-Banking-System.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\06.Ordered-Banking-System\obj\Debug\06.Ordered-Banking-System.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\06.Ordered-Banking-System\obj\Debug\06.Ordered-Banking-System.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\06.Ordered-Banking-System\obj\Debug\06.Ordered-Banking-System.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - More Exercises\06.Ordered-Banking-System\obj\Debug\06.Ordered-Banking-System.pdb

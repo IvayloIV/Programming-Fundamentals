@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\02.Key-Key-Value-Value\bin\Debug\02.Key-Key-Value-Value.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\02.Key-Key-Value-Value\bin\Debug\02.Key-Key-Value-Value.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\02.Key-Key-Value-Value\bin\Debug\02.Key-Key-Value-Value.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\02.Key-Key-Value-Value\obj\Debug\02.Key-Key-Value-Value.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\02.Key-Key-Value-Value\obj\Debug\02.Key-Key-Value-Value.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\02.Key-Key-Value-Value\obj\Debug\02.Key-Key-Value-Value.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\renameIt4\02.Key-Key-Value-Value\obj\Debug\02.Key-Key-Value-Value.pdb

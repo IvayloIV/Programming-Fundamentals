@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\5.User-Logins\bin\Debug\5.User-Logins.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\5.User-Logins\bin\Debug\5.User-Logins.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\5.User-Logins\bin\Debug\5.User-Logins.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\5.User-Logins\obj\Debug\5.User-Logins.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\5.User-Logins\obj\Debug\5.User-Logins.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\5.User-Logins\obj\Debug\5.User-Logins.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\5.User-Logins\obj\Debug\5.User-Logins.pdb

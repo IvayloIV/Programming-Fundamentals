@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\1.Letter-Repetition\bin\Debug\1.Letter-Repetition.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\1.Letter-Repetition\bin\Debug\1.Letter-Repetition.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\1.Letter-Repetition\bin\Debug\1.Letter-Repetition.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\1.Letter-Repetition\obj\Debug\1.Letter-Repetition.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\1.Letter-Repetition\obj\Debug\1.Letter-Repetition.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\1.Letter-Repetition\obj\Debug\1.Letter-Repetition.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\remaneIt2\1.Letter-Repetition\obj\Debug\1.Letter-Repetition.pdb
