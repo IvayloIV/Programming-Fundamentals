@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\08.Mines\bin\Debug\08.Mines.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\08.Mines\bin\Debug\08.Mines.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\08.Mines\bin\Debug\08.Mines.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\08.Mines\obj\Debug\08.Mines.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\08.Mines\obj\Debug\08.Mines.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\08.Mines\obj\Debug\08.Mines.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\08.Mines\obj\Debug\08.Mines.pdb

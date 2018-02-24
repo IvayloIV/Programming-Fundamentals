@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\05.Flatten-Dictionary\bin\Debug\05.Flatten-Dictionary.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\05.Flatten-Dictionary\bin\Debug\05.Flatten-Dictionary.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\05.Flatten-Dictionary\bin\Debug\05.Flatten-Dictionary.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\05.Flatten-Dictionary\obj\Debug\05.Flatten-Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\05.Flatten-Dictionary\obj\Debug\05.Flatten-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\05.Flatten-Dictionary\obj\Debug\05.Flatten-Dictionary.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\05.Flatten-Dictionary\obj\Debug\05.Flatten-Dictionary.pdb

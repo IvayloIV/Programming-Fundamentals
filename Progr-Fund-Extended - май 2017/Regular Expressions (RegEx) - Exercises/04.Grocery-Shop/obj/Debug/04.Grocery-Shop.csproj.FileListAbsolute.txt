@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\04.Grocery-Shop\bin\Debug\04.Grocery-Shop.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\04.Grocery-Shop\bin\Debug\04.Grocery-Shop.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\04.Grocery-Shop\bin\Debug\04.Grocery-Shop.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\04.Grocery-Shop\obj\Debug\04.Grocery-Shop.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\04.Grocery-Shop\obj\Debug\04.Grocery-Shop.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\04.Grocery-Shop\obj\Debug\04.Grocery-Shop.pdb

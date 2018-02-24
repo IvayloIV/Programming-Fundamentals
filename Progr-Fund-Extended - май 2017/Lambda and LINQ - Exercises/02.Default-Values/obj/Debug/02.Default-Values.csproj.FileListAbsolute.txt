@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\02.Default-Values\bin\Debug\02.Default-Values.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\02.Default-Values\bin\Debug\02.Default-Values.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\02.Default-Values\bin\Debug\02.Default-Values.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\02.Default-Values\obj\Debug\02.Default-Values.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\02.Default-Values\obj\Debug\02.Default-Values.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\02.Default-Values\obj\Debug\02.Default-Values.pdb

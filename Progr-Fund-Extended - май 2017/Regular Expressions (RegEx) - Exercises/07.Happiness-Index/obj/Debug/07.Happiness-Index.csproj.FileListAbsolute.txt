@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\07.Happiness-Index\bin\Debug\07.Happiness-Index.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\07.Happiness-Index\bin\Debug\07.Happiness-Index.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\07.Happiness-Index\bin\Debug\07.Happiness-Index.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\07.Happiness-Index\obj\Debug\07.Happiness-Index.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\07.Happiness-Index\obj\Debug\07.Happiness-Index.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\07.Happiness-Index\obj\Debug\07.Happiness-Index.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\07.Happiness-Index\obj\Debug\07.Happiness-Index.pdb

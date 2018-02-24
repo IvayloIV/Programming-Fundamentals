@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\06.Email-Stats\bin\Debug\06.Email-Stats.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\06.Email-Stats\bin\Debug\06.Email-Stats.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\06.Email-Stats\bin\Debug\06.Email-Stats.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\06.Email-Stats\obj\Debug\06.Email-Stats.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\06.Email-Stats\obj\Debug\06.Email-Stats.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\06.Email-Stats\obj\Debug\06.Email-Stats.pdb

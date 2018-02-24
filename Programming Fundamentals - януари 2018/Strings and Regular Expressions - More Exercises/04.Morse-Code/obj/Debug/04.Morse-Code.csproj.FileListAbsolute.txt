@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\04.Morse-Code\bin\Debug\04.Morse-Code.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\04.Morse-Code\bin\Debug\04.Morse-Code.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\04.Morse-Code\bin\Debug\04.Morse-Code.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\04.Morse-Code\obj\Debug\04.Morse-Code.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\04.Morse-Code\obj\Debug\04.Morse-Code.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\04.Morse-Code\obj\Debug\04.Morse-Code.pdb

@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\03.Karate-Strings\bin\Debug\03.Karate-Strings.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\03.Karate-Strings\bin\Debug\03.Karate-Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\03.Karate-Strings\bin\Debug\03.Karate-Strings.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\03.Karate-Strings\obj\Debug\03.Karate-Strings.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\03.Karate-Strings\obj\Debug\03.Karate-Strings.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Strings and Regular Expressions - More Exercises\03.Karate-Strings\obj\Debug\03.Karate-Strings.pdb

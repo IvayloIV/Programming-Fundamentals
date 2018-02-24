@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\06.Fish-Statistics\bin\Debug\06.Fish-Statistics.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\06.Fish-Statistics\bin\Debug\06.Fish-Statistics.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\06.Fish-Statistics\bin\Debug\06.Fish-Statistics.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\06.Fish-Statistics\obj\Debug\06.Fish-Statistics.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\06.Fish-Statistics\obj\Debug\06.Fish-Statistics.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\06.Fish-Statistics\obj\Debug\06.Fish-Statistics.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\06.Fish-Statistics\obj\Debug\06.Fish-Statistics.pdb

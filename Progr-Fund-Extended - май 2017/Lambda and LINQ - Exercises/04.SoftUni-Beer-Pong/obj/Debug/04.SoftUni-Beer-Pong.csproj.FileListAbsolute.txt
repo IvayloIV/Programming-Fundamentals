@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\04.SoftUni-Beer-Pong\bin\Debug\04.SoftUni-Beer-Pong.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\04.SoftUni-Beer-Pong\bin\Debug\04.SoftUni-Beer-Pong.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\04.SoftUni-Beer-Pong\bin\Debug\04.SoftUni-Beer-Pong.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\04.SoftUni-Beer-Pong\obj\Debug\04.SoftUni-Beer-Pong.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\04.SoftUni-Beer-Pong\obj\Debug\04.SoftUni-Beer-Pong.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\04.SoftUni-Beer-Pong\obj\Debug\04.SoftUni-Beer-Pong.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\04.SoftUni-Beer-Pong\obj\Debug\04.SoftUni-Beer-Pong.pdb

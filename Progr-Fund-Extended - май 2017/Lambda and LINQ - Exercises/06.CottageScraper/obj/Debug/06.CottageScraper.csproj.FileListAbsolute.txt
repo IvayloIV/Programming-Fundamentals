@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\06.CottageScraper\bin\Debug\06.CottageScraper.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\06.CottageScraper\bin\Debug\06.CottageScraper.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\06.CottageScraper\bin\Debug\06.CottageScraper.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\06.CottageScraper\obj\Debug\06.CottageScraper.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\06.CottageScraper\obj\Debug\06.CottageScraper.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\06.CottageScraper\obj\Debug\06.CottageScraper.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\06.CottageScraper\obj\Debug\06.CottageScraper.pdb

@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\03.Shopping-Spree\bin\Debug\03.Shopping-Spree.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\03.Shopping-Spree\bin\Debug\03.Shopping-Spree.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\03.Shopping-Spree\bin\Debug\03.Shopping-Spree.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\03.Shopping-Spree\obj\Debug\03.Shopping-Spree.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\03.Shopping-Spree\obj\Debug\03.Shopping-Spree.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\03.Shopping-Spree\obj\Debug\03.Shopping-Spree.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Lambda and LINQ - Exercises\03.Shopping-Spree\obj\Debug\03.Shopping-Spree.pdb

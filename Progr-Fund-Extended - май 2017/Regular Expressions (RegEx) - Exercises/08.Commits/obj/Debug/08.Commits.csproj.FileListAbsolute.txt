@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\08.Commits\bin\Debug\08.Commits.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\08.Commits\bin\Debug\08.Commits.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\08.Commits\bin\Debug\08.Commits.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\08.Commits\obj\Debug\08.Commits.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\08.Commits\obj\Debug\08.Commits.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\08.Commits\obj\Debug\08.Commits.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\08.Commits\obj\Debug\08.Commits.pdb

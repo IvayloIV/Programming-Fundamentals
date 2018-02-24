@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\02.Word-Encounter\bin\Debug\02.Word-Encounter.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\02.Word-Encounter\bin\Debug\02.Word-Encounter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\02.Word-Encounter\bin\Debug\02.Word-Encounter.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\02.Word-Encounter\obj\Debug\02.Word-Encounter.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\02.Word-Encounter\obj\Debug\02.Word-Encounter.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\02.Word-Encounter\obj\Debug\02.Word-Encounter.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Progr-Fund-Extended - май 2017\Regular Expressions (RegEx) - Exercises\02.Word-Encounter\obj\Debug\02.Word-Encounter.pdb
