@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\02.Hornet-Comm\bin\Debug\02.Hornet-Comm.exe.config
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\02.Hornet-Comm\bin\Debug\02.Hornet-Comm.exe
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\02.Hornet-Comm\bin\Debug\02.Hornet-Comm.pdb
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\02.Hornet-Comm\obj\Debug\02.Hornet-Comm.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\02.Hornet-Comm\obj\Debug\02.Hornet-Comm.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\02.Hornet-Comm\obj\Debug\02.Hornet-Comm.exe
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\02.Hornet-Comm\obj\Debug\02.Hornet-Comm.pdb

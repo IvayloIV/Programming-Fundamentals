@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\03.Hornet-Assault\bin\Debug\03.Hornet-Assault.exe.config
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\03.Hornet-Assault\bin\Debug\03.Hornet-Assault.exe
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\03.Hornet-Assault\bin\Debug\03.Hornet-Assault.pdb
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\03.Hornet-Assault\obj\Debug\03.Hornet-Assault.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\03.Hornet-Assault\obj\Debug\03.Hornet-Assault.exe
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\03.Hornet-Assault\obj\Debug\03.Hornet-Assault.pdb

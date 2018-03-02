@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Preparing for exam\Programming Fundamentals Retake Exam -05-January-2018\02.Snowmen\bin\Debug\02.Snowmen.exe.config
+C:\Users\MASTER\Desktop\Preparing for exam\Programming Fundamentals Retake Exam -05-January-2018\02.Snowmen\bin\Debug\02.Snowmen.exe
+C:\Users\MASTER\Desktop\Preparing for exam\Programming Fundamentals Retake Exam -05-January-2018\02.Snowmen\bin\Debug\02.Snowmen.pdb
+C:\Users\MASTER\Desktop\Preparing for exam\Programming Fundamentals Retake Exam -05-January-2018\02.Snowmen\obj\Debug\02.Snowmen.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Preparing for exam\Programming Fundamentals Retake Exam -05-January-2018\02.Snowmen\obj\Debug\02.Snowmen.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Preparing for exam\Programming Fundamentals Retake Exam -05-January-2018\02.Snowmen\obj\Debug\02.Snowmen.exe
+C:\Users\MASTER\Desktop\Preparing for exam\Programming Fundamentals Retake Exam -05-January-2018\02.Snowmen\obj\Debug\02.Snowmen.pdb

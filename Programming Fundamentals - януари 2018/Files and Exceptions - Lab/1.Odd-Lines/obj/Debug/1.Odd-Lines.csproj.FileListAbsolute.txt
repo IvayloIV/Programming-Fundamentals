@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\1.Odd-Lines\bin\Debug\1.Odd-Lines.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\1.Odd-Lines\bin\Debug\1.Odd-Lines.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\1.Odd-Lines\bin\Debug\1.Odd-Lines.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\1.Odd-Lines\obj\Debug\1.Odd-Lines.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\1.Odd-Lines\obj\Debug\1.Odd-Lines.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\1.Odd-Lines\obj\Debug\1.Odd-Lines.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\1.Odd-Lines\obj\Debug\1.Odd-Lines.pdb

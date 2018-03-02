@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\04.Hornet-Armada\bin\Debug\04.Hornet-Armada.exe.config
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\04.Hornet-Armada\bin\Debug\04.Hornet-Armada.exe
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\04.Hornet-Armada\bin\Debug\04.Hornet-Armada.pdb
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\04.Hornet-Armada\obj\Debug\04.Hornet-Armada.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\04.Hornet-Armada\obj\Debug\04.Hornet-Armada.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\04.Hornet-Armada\obj\Debug\04.Hornet-Armada.exe
+C:\Users\MASTER\Desktop\Preparing for exam\Exam Preparation V -Taking-a-Sample-Exam\04.Hornet-Armada\obj\Debug\04.Hornet-Armada.pdb

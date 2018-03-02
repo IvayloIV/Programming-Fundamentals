@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Exercises\4.Max-Sequence\bin\Debug\4.Max-Sequence.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Exercises\4.Max-Sequence\bin\Debug\4.Max-Sequence.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Exercises\4.Max-Sequence\bin\Debug\4.Max-Sequence.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Exercises\4.Max-Sequence\obj\Debug\4.Max-Sequence.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Exercises\4.Max-Sequence\obj\Debug\4.Max-Sequence.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Exercises\4.Max-Sequence\obj\Debug\4.Max-Sequence.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Exercises\4.Max-Sequence\obj\Debug\4.Max-Sequence.pdb

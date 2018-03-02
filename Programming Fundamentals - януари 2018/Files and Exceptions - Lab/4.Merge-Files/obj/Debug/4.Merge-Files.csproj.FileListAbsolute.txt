@@ -1,0 +1,6 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\4.Merge-Files\bin\Debug\4.Merge-Files.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\4.Merge-Files\bin\Debug\4.Merge-Files.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\4.Merge-Files\bin\Debug\4.Merge-Files.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\4.Merge-Files\obj\Debug\4.Merge-Files.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\4.Merge-Files\obj\Debug\4.Merge-Files.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\4.Merge-Files\obj\Debug\4.Merge-Files.pdb

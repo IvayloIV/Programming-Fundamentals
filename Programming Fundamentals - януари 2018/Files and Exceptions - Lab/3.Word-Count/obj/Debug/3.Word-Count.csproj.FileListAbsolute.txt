@@ -1,0 +1,7 @@
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\3.Word-Count\bin\Debug\3.Word-Count.exe.config
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\3.Word-Count\bin\Debug\3.Word-Count.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\3.Word-Count\bin\Debug\3.Word-Count.pdb
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\3.Word-Count\obj\Debug\3.Word-Count.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\3.Word-Count\obj\Debug\3.Word-Count.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\3.Word-Count\obj\Debug\3.Word-Count.exe
+C:\Users\MASTER\Desktop\Programming-Fundamentals\Programming Fundamentals - януари 2018\Files and Exceptions - Lab\3.Word-Count\obj\Debug\3.Word-Count.pdb
