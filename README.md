@@ -28,6 +28,8 @@
 24.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Regular%20Expressions%20(RegEx)%20-%20Lab" > <b>Regular Expressions (RegEx) - Lab</b> </a>
 25.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Regular%20Expressions%20(RegEx)%20-%20Exercises" > <b>Regular Expressions (RegEx) - Exercises</b> </a>
 26.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Strings%20and%20Regular%20Expressions%20-%20More%20Exercises" > <b>Strings and Regular Expressions - More Exercises</b> </a>
+27.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Files%20and%20Exceptions%20-%20Lab" > <b>Files and Exceptions - Lab</b> </a>
+28.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20%D1%8F%D0%BD%D1%83%D0%B0%D1%80%D0%B8%202018/Files%20and%20Exceptions%20-%20Exercises" > <b>Files and Exceptions - Exercises</b> </a>
 
 ## <b>Programming Fundamentals - Extended - ноември 2017</b>
 1.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Programming%20Fundamentals%20-%20Extended%20-%20%D0%BD%D0%BE%D0%B5%D0%BC%D0%B2%D1%80%D0%B8%202017/Data%20Types%2C%20Variables%20and%20Methods%20%20Lab" > <b>Data Types, Variables and Methods - Lab</b> </a> 
@@ -91,3 +93,4 @@
 7.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Exam%20Preparation%20II%20-%20Taking%20a%20Sample%20Exam" > <b>Exam Preparation II - Taking a Sample Exam</b> </a>
 8.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Exam%20Preparation%20III%20-%20Taking%20a%20Sample%20Exam" > <b>Exam Preparation III - Taking a Sample Exam</b> </a>
 9.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Exam%20Preparation%20IV%20-%20Taking%20a%20Sample%20Exam" > <b>Exam Preparation IV - Taking a Sample Exam</b> </a>
+10.  <a href="https://github.com/IvayloIV/Programming-Fundamentals/tree/master/Progr.%20Fund.%20Extended%20-%20Exams/Exam%20Preparation%20V%20-Taking-a-Sample-Exam" > <b>Exam Preparation V - Taking a Sample Exam</b> </a>
