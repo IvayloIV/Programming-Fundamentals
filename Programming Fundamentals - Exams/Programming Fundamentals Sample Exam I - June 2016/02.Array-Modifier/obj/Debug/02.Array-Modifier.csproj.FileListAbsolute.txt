@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\02.Array-Modifier\bin\Debug\02.Array-Modifier.exe.config
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\02.Array-Modifier\bin\Debug\02.Array-Modifier.exe
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\02.Array-Modifier\bin\Debug\02.Array-Modifier.pdb
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\02.Array-Modifier\obj\Debug\02.Array-Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\02.Array-Modifier\obj\Debug\02.Array-Modifier.exe
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\02.Array-Modifier\obj\Debug\02.Array-Modifier.pdb

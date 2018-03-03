@@ -1,0 +1,7 @@
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\04.Population-Aggregation\bin\Debug\04.Population-Aggregation.exe.config
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\04.Population-Aggregation\bin\Debug\04.Population-Aggregation.exe
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\04.Population-Aggregation\bin\Debug\04.Population-Aggregation.pdb
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\04.Population-Aggregation\obj\Debug\04.Population-Aggregation.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\04.Population-Aggregation\obj\Debug\04.Population-Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\04.Population-Aggregation\obj\Debug\04.Population-Aggregation.exe
+C:\Users\Nikolay\Desktop\Programing fundamentals\Programming Fundamentals Sample Exam I - June 2016\04.Population-Aggregation\obj\Debug\04.Population-Aggregation.pdb
