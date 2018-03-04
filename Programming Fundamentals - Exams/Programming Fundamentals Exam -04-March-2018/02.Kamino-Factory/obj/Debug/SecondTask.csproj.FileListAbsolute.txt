@@ -1,0 +1,7 @@
+C:\Users\Nikolay\Desktop\Exam\SecondTask\bin\Debug\SecondTask.exe.config
+C:\Users\Nikolay\Desktop\Exam\SecondTask\bin\Debug\SecondTask.exe
+C:\Users\Nikolay\Desktop\Exam\SecondTask\bin\Debug\SecondTask.pdb
+C:\Users\Nikolay\Desktop\Exam\SecondTask\obj\Debug\SecondTask.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Exam\SecondTask\obj\Debug\SecondTask.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Exam\SecondTask\obj\Debug\SecondTask.exe
+C:\Users\Nikolay\Desktop\Exam\SecondTask\obj\Debug\SecondTask.pdb

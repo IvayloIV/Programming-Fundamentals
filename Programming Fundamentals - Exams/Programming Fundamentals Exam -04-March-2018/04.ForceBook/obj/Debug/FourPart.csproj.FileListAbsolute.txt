@@ -1,0 +1,7 @@
+C:\Users\Nikolay\Desktop\Exam\FourPart\bin\Debug\FourPart.exe.config
+C:\Users\Nikolay\Desktop\Exam\FourPart\bin\Debug\FourPart.exe
+C:\Users\Nikolay\Desktop\Exam\FourPart\bin\Debug\FourPart.pdb
+C:\Users\Nikolay\Desktop\Exam\FourPart\obj\Debug\FourPart.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Exam\FourPart\obj\Debug\FourPart.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Exam\FourPart\obj\Debug\FourPart.exe
+C:\Users\Nikolay\Desktop\Exam\FourPart\obj\Debug\FourPart.pdb

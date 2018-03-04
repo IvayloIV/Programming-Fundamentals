@@ -1,0 +1,7 @@
+C:\Users\Nikolay\Desktop\Exam\ThreeTask\bin\Debug\ThreeTask.exe.config
+C:\Users\Nikolay\Desktop\Exam\ThreeTask\bin\Debug\ThreeTask.exe
+C:\Users\Nikolay\Desktop\Exam\ThreeTask\bin\Debug\ThreeTask.pdb
+C:\Users\Nikolay\Desktop\Exam\ThreeTask\obj\Debug\ThreeTask.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Exam\ThreeTask\obj\Debug\ThreeTask.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Exam\ThreeTask\obj\Debug\ThreeTask.exe
+C:\Users\Nikolay\Desktop\Exam\ThreeTask\obj\Debug\ThreeTask.pdb
